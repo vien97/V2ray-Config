@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node18.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node18.mxvpn.dev&type=tcp#🔖17@oneclickvpnkeys
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node19.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node19.mxvpn.dev&type=tcp#🔖18@oneclickvpnkeys
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@soskeynets.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node17.mxvpn.dev&type=tcp#🇳🇱139849 | ⚡️Telegram = t.me/SOSkeyNET
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@soskeynets.mxvpn.dev:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node15.mxvpn.dev&sid=bbc68cec8bb8d2e3#🇫🇮139854 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&en
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#⭐️@v2rayngsupbot
 vless://7dfe2f33-54c5-43cf-a6584-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
 vless://7e0150c3-9434-4f51-87f6-be18b6cf4b14@soskeynets.serendpiti.ir:7190?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&sid=7398e0c72f7d5c0e#🇩🇪139857 | ⚡️Telegram = t.me/SOSkeyNET
-vless://7e0150c3-9434-4f51-87f6-be18b6cf4b14@soskeynets.serendpiti.ir:8080?encryption=none&type=xhttp&mode=auto&host=hostname&path=/path&extra={"xPaddingBytes":"100-1000"}&security=reality&fp=chrome&sni=yahoo.com&pbk=T1RP_ANRamv02FqFD4ZNjBeA4vbHkZr_-YIJziiUMkw&sid=038a426e122933e9#🇩🇪139858 | ⚡️Telegram = t.me/SOSkeyNET
