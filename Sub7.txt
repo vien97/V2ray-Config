@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8033102198@144.31.171.233:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.fast-connect-service.site#@vmesskhodam
 vless://8033102198@144.31.171.233:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.fast-connect-service.site#🚀t.me/iProxyChannel
 vless://8033102198@159.195.40.19:443?encryption=none&type=tcp&security=tls&headerType=none&sni=de7.fast-connect-service.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#@meliproxyy
 vless://8033102198@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#@Capoit
@@ -503,3 +502,4 @@ vless://906cde2e-3d43-41cc-b0c0-1bdcebc92ff2@turkbot1.namirasly.com:8888?type=tc
 vless://90eacce7-8baa-49a4-be0e-eb056e0f7a01@channelhollowcon.onrender.com:443?encryption=none&security=tls&sni=channelhollowcon.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=channelhollowcon.onrender.com&path=/ws/90eacce7-8baa-49a4-be0e-eb056e0f7a01#@hollowcon
 vless://9149a9c5-d2e5-4fa0-841c-99f7e12dfced@testserv1.zer0zypher.ir:443?security=reality&encryption=none&pbk=RQLrLXb2bSZ6hd_UsZ7zHj-dJ0nLgtfq0RVPtOQRWUY&headerType=none&fp=chrome&spx=/f3rGKXLd1TzSheY&type=tcp&flow=xtls-rprx-vision&sni=fr-ca.rogers.yahoo.com&sid=e457c0e0f564#%FREE_VPN02
 vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@64.188.62.138:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&sid=27bb&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁷ | @BigSmoke_Config
+vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@update.netraidly.ru:40443?security=reality&encryption=none&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=27bb#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
