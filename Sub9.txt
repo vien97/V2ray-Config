@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.152.120:443?path=/code/dl&security=tls&encryption=none&insecure=0&host=pagescm.freen29.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen29.cc.cd#@v2rayng3
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.71.242:443?path=/html/ads&security=tls&encryption=none&insecure=1&host=pagescm.freen30.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen30.cc.cd#@v2rayng3
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=/friend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#@v2ray_ng
 vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@191.215.37.90:443?encryption=none&security=none&type=tcp#🔖61@oneclickvpnkeys
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560#🇩🇪All⁷ | @BigSmoke_Config
@@ -500,6 +503,3 @@ vless://cb510729-b1a8-4d7f-97a8-494f898ea82b@auth-api-b2cfc2-edg.deploy-agent-1c
 vless://cba8674f-c167-4672-a6c8-97bdb7b52717@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://cbc5b8c8-69a3-4c09-bd8a-6b19592877d6@www.speedtest.net:443?mode=stream-up&path=/&security=tls&alpn=h2&encryption=none&extra={  "noGRPCHeader" : false,  "xmux" : {    "hMaxReusableSecs" : "1800-3000",    "maxConcurrency" : "16-32",    "cMaxReuseTimes" : 0,    "maxConnections" : 0,    "hMaxRequestTimes" : "600-900",    "hKeepAlivePeriod" : 0  },  "scStreamUpServerSecs" : "20-80",  "scMaxEachPostBytes" : 1000000,  "headers" : {  },  "xPaddingBytes" : "100-1000",  "scMinPostsIntervalMs" : 30}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de-3.85858569.xyz#@KAFING_2
 vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cdn.devmixa.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#🇬🇧139751 | ⚡️Telegram = t.me/SOSkeyNET
-vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cdn.devmixa.ir:8880?path=/?ed=2082&security=none&encryption=none&host=Gowspobhgln.5.postshup.ir&type=httpupgrade#🇬🇧139750 | ⚡️Telegram = t.me/SOSkeyNET
-vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cf-mci.coixconqwe1.ir:2086?mode=auto&path=/?ed=8192&security=none&encryption=none&host=ofgqv.fc2.havray2025.ir&type=xhttp#🇨🇦139752 | ⚡️Telegram = t.me/SOSkeyNET
-vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@s2.eldoradu.ir:8880?path=/?ed=2082&security=none&encryption=none&host=oCrxx.francee1.postshup.ir&type=httpupgrade#@NETMelliAnti
