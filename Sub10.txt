@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c327c13a-93c2-4be9-b420-e6837afeb4fd@dezh.dezhawo.ir:8880?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.CtjESeE1qKZPX7AmVz7dwyh4QbCl6Xk4j2QnAABfgzw&pbk=-9mjwbeJdOLbkA7on40npvz5A6kYm2Xfp5bRAlYvSgg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=da678041dc6f3bff#@V2ray_Alpha🦌 8
-vless://c327c13a-93c2-4be9-b420-e6837afeb4fd@dezh.dezhawo.ir:8880?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.CtjESeE1qKZPX7AmVz7dwyh4QbCl6Xk4j2QnAABfgzw&pbk=-9mjwbeJdOLbkA7on40npvz5A6kYm2Xfp5bRAlYvSgg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=da678041dc6f3bff#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@hopev2ray🤍
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=/udfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#@v2rayng3
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@hopev2ray🤍
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇸🇨141743 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@soskeynets.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws@soskeynets#🇨🇦139773 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +499,7 @@ vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#🇩🇪ConfigV2RayNG
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#🚀t.me/iProxyChannel
 vless://e13123f8-5b2e-4d86-a63a-806fb905000f@5.202.13.69:80?security=none&encryption=none&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://e1df69ad-2351-4725-adc0-601bd7d8b8e7@email.swiftraci.org:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=f7c5599376a0&type=tcp&path=/#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#@v2rayng3
+vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=reality&fp=chrome&sni=www.yahoo.com&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&sid=4e&spx=/DFm1fdkZikXIQ1r#green
+vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality&encryption=none&pbk=VwWuZIAZf4msfvsDZQjQHY6hZPK5r0O-s7yStyjOqhk&headerType=none&fp=chrome&spx=/U575ktM2xSCSQeZ&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=fc87828b94144d#TEL;Father_vpn

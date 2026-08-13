@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@85.155.98.127:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nl7.fast-connect-service.site&type=tcp#🎗️63@oneclickvpnkeys
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@85.155.98.127:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl7.fast-connect-service.site#@meliproxyy
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@85.155.98.40:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nl2.fast-connect-service.site&type=tcp#🎗️68@oneclickvpnkeys
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@85.155.98.40:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl2.fast-connect-service.site#@meliproxyy
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@85.155.98.47:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nl5.fast-connect-service.site&type=tcp#🎗️64@oneclickvpnkeys
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@85.155.98.47:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl5.fast-connect-service.site#@icv2ray
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@85.155.98.47:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl5.fast-connect-service.site#@meliproxyy
@@ -503,3 +499,7 @@ vless://7a507bb5-2eea-4dd0-81a7-684f53b03689@104.22.13.192:8880?security=none&ty
 vless://7aa508f3-176f-0024-add3-646af94d6288@185.137.232.194:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=chrome&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.190:2096?sni=vp40.cc.cd&type=ws&host=vp40.cc.cd&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&security=reality&sni=www.paypal.com&type=tcp#🎗️84@oneclickvpnkeys
+vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
+vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:2053?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/stream/norman&pbk=6Xk_Me1M8N4zqLZmXJVm4hsKj2KlR9PAEUMqHWNJdX0&security=reality&sid=6720c0d4&sni=timeline.www.cloudflare.com&spx=/ca03dcf8d926dcb&type=xhttp&x_padding_bytes=100-1000#NormanConfig
+vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:2053?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/stream/norman&pbk=6Xk_Me1M8N4zqLZmXJVm4hsKj2KlR9PAEUMqHWNJdX0&security=reality&sid=6720c0d4&sni=timeline.www.cloudflare.com&spx=/ca03dcf8d926dcb&type=xhttp&x_padding_bytes=100-1000#🇳🇱141746 | ⚡️Telegram = t.me/SOSkeyNET
