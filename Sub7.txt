@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#MTMVPN 12
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#MTMVPN 8
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#[🇨🇦]t.me/ConfigV2RayNG
@@ -502,4 +503,3 @@ vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@89.124.117.186:443/?type=tcp&encryp
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@fin1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&security=reality&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru&type=tcp#4🛗@oneclickvpnkeys
 vless://9b2c31f4-dc67-4e5a-88d9-79d0a04cc2bd@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://9b3aae44-12db-47e1-89e8-3b6bf67eedc2@130.185.122.175:8888?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&ech=AGL+DQBeAAAgACCjjXdAYQrcIEGiyI2hOi8jtLCdxjV/p351r3+VXZ2vawAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xMzAuMTg1LjEyMi4xNzUAAA==&type=ws&allowInsecure=0&sni=130.185.122.175#@meliproxyy
-vless://9b3aae44-12db-47e1-89e8-3b6bf67eedc2@130.185.122.175:8888?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&ech=AGL+DQBeAAAgACCjjXdAYQrcIEGiyI2hOi8jtLCdxjV/p351r3+VXZ2vawAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xMzAuMTg1LjEyMi4xNzUAAA==&type=ws&allowInsecure=0&sni=130.185.122.175#Channel : @Daily_Configs
