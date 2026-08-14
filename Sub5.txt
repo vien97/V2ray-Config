@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?security=none&encryption=none&headerType=none&type=tcp#@configprxy
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:37414?encryption=none&host=www.samsung.com&path=/&security=none&type=ws#@V2rayng_Fast-اختصاصی‌جدید🇹🇷-،
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:47030?encryption=none&fp=chrome&pbk=AHp8H79GIMcWuuAS-nVQmb93RGUeKGrYwadd3r-40QQ&security=reality&sid=f4b2dbe494c8&sni=www.cloudflare.com&spx=/9cb062b79f9c174&type=tcp#@V2rayng_Fast-اختصاصی‌جدید🇹🇷-،
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:49736?authority=&encryption=none&fp=chrome&pbk=72YYFwmWjUG4MF8Jyon9yBGT31lboO__K-x9FjCO70M&security=reality&serviceName=&sid=2942cebdac&sni=www.cloudflare.com&spx=/193473383ca55cb&type=grpc#@V2rayng_Fast-اختصاصی‌جدید🇹🇷-،
@@ -503,3 +502,4 @@ vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?mode=auto&path=/a
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?mode=auto&path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk7.jailever.org&fp=chrome&type=xhttp&allowInsecure=0&sni=uk7.jailever.org#@v2raybaaz ¹
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?mode=auto&path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk7.jailever.org&fp=chrome&type=xhttp&allowInsecure=0&sni=uk7.jailever.org#@v2raybaaz ⁴
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?mode=auto&path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk7.jailever.org&fp=chrome&type=xhttp&allowInsecure=0&sni=uk7.jailever.org#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
+vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?mode=auto&path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk7.jailever.org&fp=chrome&type=xhttp&allowInsecure=0&sni=uk7.jailever.org#☑➜چنلمون: Express_freevpn@
