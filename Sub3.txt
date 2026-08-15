@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
@@ -503,3 +502,4 @@ vless://1f3327d9-687f-4add-967b-6e12830972c9@s1.zynetraq.ir:2087?alpn=h2,http/1.
 vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=/ws/1f347596-193a-baf6-a33b-4eeb1bbb548b&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-cc31.up.railway.app&fp=chrome&type=ws&sni=rvg-production-cc31.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=/v1&security=none&encryption=none&type=ws#@FarazV2ray
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=/v1&security=none&encryption=none&type=ws#@V2rayng_Fast
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@gr1.levikogjgfdd.ir:51822?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#@Selinc
