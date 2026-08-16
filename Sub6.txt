@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@B2Hub
 vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@tootffarangi🍓-2
 vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇬🇧143894 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://834122a3-2fd0-37f8-0390-e8df0055d01e@cloud-bdede7-412210-production.up.r
 vless://839236b3-a8e5-426d-94d3-3ffa53317b70@zula.ir:80?type=ws&path=/-@Shh_Proxy-@Shh_Proxy-@Shh_Proxy--@Shh_Proxy--?ed=1024&host=www.speedtest.net.Ftp.debIan.org.soVemAitaly.shop.&security=none#@Hope_Net-join-us-on-Telegram
 vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&allowInsecure=0&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#TEL;Father_vpn
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&spx=/@HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#@appsooner کانال تلگرام 🕊️
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@ConfigV2RayNG 🫂

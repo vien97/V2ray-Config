@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=tight-moon-2d50.457.workers.dev&type=ws#%3E%3E%40outline_vpn%3A%3AUS
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?alpn=h2&encryption=none&host=GERMAN.sarzamiiinahang.ir&mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&sni=GERMAN.sarzamiiinahang.ir&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://3775ad6e-d281-8bc5-36e9-9c5324a69393@167.99.178.229:1161?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3ACA
 vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?encryption=none&fp=chrome&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
@@ -502,4 +503,3 @@ trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.
 trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&sni=casual-bee.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-35.72.13.34-0163
 trojan://FH72359861@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.237.228-0924
 trojan://AE62539071@main-impala.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.193.221.67-0175
-trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.27.225-0157
