@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22224?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22224?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.97.199:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
@@ -503,3 +502,4 @@ vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@xn--ita-dw33bda.netbazshop.ir:33017
 vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@xn--ita-dw33bda.netbazshop.ir:33017?security=&encryption=none&host=swcdn.apple.com&headerType=http&type=tcp#🇮🇹144266 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@xn--nether-om84ega.netbazshop.ir:33017?security=&encryption=none&host=swcdn.apple.com&headerType=http&type=tcp#🇨🇦144264 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@xn--tutu-3z8b6523z.netbazshop.ir:33017?security=none&encryption=none&host=swcdn.apple.com&headerType=http&type=tcp#[23958] - Telegram : @V2All
+vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@xn--tutu-3z8b6523z.netbazshop.ir:33017?security=none&encryption=none&host=swcdn.apple.com&headerType=http&type=tcp#🇹🇷144260 | ⚡️Telegram = t.me/SOSkeyNET

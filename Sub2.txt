@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#@V2rayng_Fast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#Channel : @Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#[🇯🇵]t.me/ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#تلگرام : MTMVPN
@@ -503,3 +502,4 @@ vless://03d19364-c2c8-45df-9f28-f565a8efb227@fastip1.zabidat.ir:80?mode=auto&pat
 vless://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2086?mode=auto&path=/&security=none&encryption=none&host=Lat.kabotarkhiyali.ir&type=xhttp#@V2rayng_Fast
 vless://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2086?mode=auto&path=/&security=none&encryption=none&host=Lat.kabotarkhiyali.ir&type=xhttp#@bisto4_service
 vless://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2096?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=hapoo.kabotarkhiyali.ir&type=xhttp&allowInsecure=0#@V2rayng_Fast
+vless://03d19364-c2c8-45df-9f28-f565a8efb227@moblemangol.ir:2096?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=hapoo.kabotarkhiyali.ir&type=xhttp&allowInsecure=0#@bisto4_service
