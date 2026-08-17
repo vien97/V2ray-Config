@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@azf.supros.ir:2026?encryption=none&type=tcp&security=reality&headerType=none&path=/&host=play.google.com&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#🇦🇿 𝗔𝘇𝗲𝗿𝗯𝗮𝗶𝗷𝗮𝗻  Reality
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@fnsd.supros.ir:2024?encryption=none&type=tcp&security=reality&headerType=none&path=/&host=cdn-apple.com&sni=is1-ssl.mzstatic.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇫🇮 𝗙𝗮𝗻𝗹𝗮𝗻𝗱 Reality
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@frdfd.apppas.ir:2026?encryption=none&type=tcp&security=reality&headerType=none&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#🇫🇷 𝐅𝐫𝐚𝐧𝐜𝐞 Reality
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@gfeefd.systemcont.ir:2024?encryption=none&type=tcp&security=reality&headerType=none&path=/&host=play.google.com&sni=is1-ssl.mzstatic.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 Reality
@@ -502,4 +503,3 @@ vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=real
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.141.3:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
-vless://d6a909a7-d8d7-44e3-8c81-a0e1ddae231b@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸139836 | ⚡️Telegram = t.me/SOSkeyNET
