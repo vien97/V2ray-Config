@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hasty-dolphin.cdn.cachefleet.com&fp=chrome&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&type=tcp&headerType=none&host=/?#@Ap_Ir6
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#@EXPRESSVPN_420  کانآل ما
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️510🌐🆕️
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#🚀t.me/iProxyChannel
@@ -502,4 +503,3 @@ vless://dbdf1950-b40e-4533-88bb-05ebca375781@172.66.146.2:2087?path=/&security=t
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#@appsooner کانال تلگرام 🕊️
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@www.speedtest.net:8443?path=/&security=tls&encryption=none&insecure=0&host=dig.jhju.ir&fp=chrome&type=ws&allowInsecure=0&sni=dig.jhju.ir#@bored_vpn
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@www.speedtest.net:8443?path=/&security=tls&encryption=none&insecure=0&host=dig.jhju.ir&fp=chrome&type=ws&allowInsecure=0&sni=dig.jhju.ir#@mehrosaboran
-vless://dbdf1950-b40e-4533-88bb-05ebca375781@www.speedtest.net:8443?path=/&security=tls&encryption=none&insecure=0&host=dig.jhju.ir&fp=chrome&type=ws&allowInsecure=0&sni=dig.jhju.ir#🚀t.me/iProxyChannel
