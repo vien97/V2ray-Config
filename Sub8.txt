@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8de0603e-5fe5-4b50-bebe-4d63115163a4@172.67.171.42:443?path=/vless&security=tls&encryption=none&host=nl1.v2vless.site&type=ws&sni=nl1.v2vless.site#@Hope_Net-join-us-on-Telegram
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://8e75118b-5bb4-4c29-aeec-8bbafab071ee@ru1.pinkvpn.ru:443?security=reality&encryption=none&pbk=MM05pCamusdSxwIZ0UO0OMH5QuJlc2ZXlqKU3aXyW2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru1.pinkvpn.ru&sid=a1b2c3d4#@tootffarangi🍓-6
 vless://8e7feb36-3ef5-4e70-a306-4362edd37854@record.sinafc.ir:8086?security=reality&encryption=none&pbk=nnq5J3zXFDHUGvCza7e5CMa34oexEcXUqAfqz_YY7yo&headerType=none&fp=chrome&spx=/438dcec243e4a9e&type=tcp&sni=products.amd.com&sid=64523ae2#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️520🌐🆕️
@@ -503,3 +502,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@alalucarne.com:443?encryption=none&
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY#کانال تلگرام : Free_VPN_CH@
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/66.42.51.60#کانال تلگرام : Free_VPN_CH@
 vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#@ai_duet
+vless://ab00e12c-09f1-41c6-8d60-7c6a83f5ca9d@51.77.217.70:2053/?type=tcp&encryption=none&flow=&sni=www.apple.com&security=reality&pbk=6j7SZO4StX_8QkHX9sATJug5nQ4X4XoTj_6B7bClEw4&sid=e52e7fd8585ac5c1#channel_@networld_vpn

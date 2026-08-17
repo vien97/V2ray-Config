@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nurenbbbb.appleseraj.ir&sni=nurenbbbb.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nuverv.appleseraj.ir&sni=nuverv.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠𝟐
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=polobash.appleseraj.ir&sni=polobash.appleseraj.ir&fp=chrome#🇵🇱| 𝐏𝐨𝐥𝐚𝐧𝐝
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#🇬🇧| 𝐋𝐨𝐧𝐝𝐨𝐧
@@ -503,3 +502,4 @@ vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2036?path=/&security
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2036?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&type=ws&allowInsecure=0&sni=world.ashahan.ir#MTMVPN 61
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2077?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=world.ashahan.ir#@meliproxyy
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2077?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=world.ashahan.ir#MTMVPN 62
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@v2rayng3
