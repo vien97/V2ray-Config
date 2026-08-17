@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5e07e5e7-35ae-4848-9b5b-4abd4e65682f@fastly1.hamrahflow.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&type=ws&host=Valsiin.com&path=/#کانال تلگرام : Free_VPN_CH@
 vless://5e08f902-7867-410b-9b04-92165226ca20@fi3-fast.iramgnewr231.ir:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=us.demonware.net&pbk=LARRTFqleriEB57nlffwtRvqs4RKYlGO8YkxPDAabHE&sid=52e4902285927e24#🇫🇮FI-🚀@VPNine1
 vless://5e18094c-18b1-4198-b211-96b40518cecf@107.181.147.22:443?security=reality&encryption=none&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=f6e197a0b9f2#@appsooner کانال تلگرام 🕊️
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#@appsooner کانال تلگرام 🕊️
@@ -502,4 +503,3 @@ vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reali
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ourworldindata.org&sid=c3177d4358119938#@MARAMBASHI 🇬🇧
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ourworldindata.org&sid=c3177d4358119938#@MARAMBASHI 🇮🇹
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ourworldindata.org&sid=c3177d4358119938#@irconfiig 🇮🇹
-vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2036?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&type=ws&allowInsecure=0&sni=world.ashahan.ir#@meliproxyy
