@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ourworldindata.org&sid=c3177d4358119938#@MARAMBASHI 🇬🇧
+vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ourworldindata.org&sid=c3177d4358119938#@MARAMBASHI 🇮🇹
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2036?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&type=ws&allowInsecure=0&sni=world.ashahan.ir#MTMVPN 61
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2077?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=world.ashahan.ir#MTMVPN 62
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@v2rayng3
@@ -501,5 +503,3 @@ vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@meshbuzz.bond:443?path=/mashdi&secu
 vless://8ac637bf-554e-4902-94d7-baf01780a83c@94.241.174.157:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mM33xyzf1GPaU2CQXAGYoGkTuYzEZRYT6S-NngyqfHQ&security=reality&sid=beb4&sni=deepl.com&type=tcp#🌀91@oneclickvpnkeys
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@104.21.46.33:443?security=tls&sni=admin.irayanconfig.ir&type=ws&fp=chrome#@Hope_Net-join-us-on-Telegram
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@104.18.1.1:443?path=/sea&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=xqexv.greenwolf-ili.sbs&fp=chrome&type=ws&allowInsecure=0&sni=xqexv.greenwolf-ili.sbs#🇫🇷
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#@confing_v2rayy کانفینگ بیشتر در چنل 👈
-vless://8aeda8e3-dd32-4071-bcbb-f793e646eb13@soskeynets.panel11.ru:443?security=reality&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#🇫🇮139905 | ⚡️Telegram = t.me/SOSkeyNET

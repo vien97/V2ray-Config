@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1f35c4eb-e4fa-5a62-b0e1-b557983b34c7@132.243.207.38:4443?encryption=none&fp=&pbk=wg5YJMYIcqRU9X9U54TRzKIIw5aUyxIEI3tL_jck5WU&security=reality&sid=44&sni=www.vk.com&type=grpc#🎈26@oneclickvpnkeys
+vless://1f40d742-dfaa-4694-a509-3d81918a5673@104.18.12.187:443?path=/?TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=auto-1f40d7.rohawmk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=auto-1f40d7.rohawmk.workers.dev#🇨🇦145763 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1f40d742-dfaa-4694-a509-3d81918a5673@104.18.12.187:443?path=/?TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=auto-1f40d7.rohawmk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=auto-1f40d7.rohawmk.workers.dev#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:3.25ms
 vless://1f40d742-dfaa-4694-a509-3d81918a5673@104.18.12.187:443?path=/?TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=auto-1f40d7.rohawmk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=auto-1f40d7.rohawmk.workers.dev#🚀@VPNine1
 vless://1f40d742-dfaa-4694-a509-3d81918a5673@104.25.175.238:443?path=/?TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=auto-1f40d7.rohawmk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=auto-1f40d7.rohawmk.workers.dev#🇨🇦145760 | ⚡️Telegram = t.me/SOSkeyNET
@@ -501,5 +503,3 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?type=ws&host=PbDp
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8080?security=none&type=ws&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&path=/#@Hope_Net-join-us-on-Telegram
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
-vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?path=/&security=none&encryption=none&host=lizardf1.fastshop11.ir&type=ws#🇮🇷145773 | ⚡️Telegram = t.me/SOSkeyNET
-vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?path=/&security=none&encryption=none&host=lizardf1.fastshop11.ir&type=ws#🇮🇷IR-🚀@VPNine1
