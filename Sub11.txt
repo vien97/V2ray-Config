@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d6a909a7-d8d7-44e3-8c81-a0e1ddae231b@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸139836 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d6c81f6d-24a8-46d9-a3bf-c38d51fc5fe5@171.97.18.114:8443?security=reality&encryption=none&pbk=sDH4MlZFHXJB5VR_mfuFNBrQHtptpNK-qj3sot7b1zU&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=16887c51#@Begoo_VPN ²⁶⁶
-vless://d71aecee-ef16-418e-baf5-2b2458122d5a@89.125.124.178:8443?encryption=none&security=tls&sni=gb.wlrus.cfd&fp=chrome&type=tcp&headerType=none#@Daily_Configs
-vless://d71aecee-ef16-418e-baf5-2b2458122d5a@89.125.124.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gb.wlrus.cfd#@hex_proxy ¹
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?encryption=none&flow=xtls-rprx-vision&security=tls&sni=devblogs.microsoft.com&allowInsecure=1&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?encryption=none&flow=xtls-rprx-vision&security=tls&sni=devblogs.microsoft.com¬e&allowInsecure=1&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?encryption=none&flow=xtls-rprx-vision&security=tls&sni=devblogs.microsoft.com¬e&allowInsecure=1&type=tcp&headerType=none&host=/JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
@@ -503,3 +499,7 @@ vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.129:443?path=/139.99.124
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.129:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.3:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://ed0e05af-49ab-4ea8-a39c-634855811b03@time.is:443?path=/ws?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev#🇩🇪1
+vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?path=/&security=none&encryption=none&host=www.google.com&type=ws#🇹🇷 @GozargahVPN
+vless://ed9a0afe-1f54-40af-8821-0995cef0225a@api6.maps-yandex.net:10970?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=_RCN3b8MUJE61ES111k45TLrvB_nUi1pywAO5sc0OF0&sid=cb8ba29900e2f68b&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
+vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?security=reality&encryption=none&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=d6c3c9#@appsooner کانال تلگرام 🕊️
+vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?security=reality&encryption=none&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=d6c3c9#🇩🇪139808 | ⚡️Telegram = t.me/SOSkeyNET

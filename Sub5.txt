@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3b77447b-a712-4de0-aea5-ad80fdd283fd@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in9&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Spain-es-client
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
-vless://3bd010f2-f769-570c-a3e1-0da96e402a2b@69.46.46.17:443?path=/ws/3bd010f2-f769-570c-a3e1-0da96e402a2b&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-105c.up.railway.app&fp=chrome&type=ws&sni=rvg-production-105c.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#🥑Tel: @pPal03🥑Join🥑
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#🥑Tel: @pPal03🥑Join🥑
 vless://3c3e05e8-abea-f9f8-6100-aaf974372db5@subgift5.up.railway.app:443?path=/ws/3c3e05e8-abea-f9f8-6100-aaf974372db5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#118
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#@SylphNet | 2026-06-27 01:57
@@ -503,3 +499,7 @@ vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?encryption=none&ty
 vless://59260bc4-8672-4573-b805-a372efc200b8@germany1.fastly80-2.hosting-ip.com:80?path=/?ed=1024&security=none&encryption=none&host=iranvpn.com.&type=ws#@V2rayi_net
 vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@151.101.34.144:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#✅  @vistav2ray  👈👈کانال ما ✅
 vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.245.94:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#✅  @vistav2ray  👈👈کانال ما ✅
+vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.245.94:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&sni=global.fastly.com#@v2ray_phoenix
+vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.77.215:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#✅  @vistav2ray  👈👈کانال ما ✅
+vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.77.215:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&sni=global.fastly.com#@v2ray_phoenix
+vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.77.215:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@icv2ray

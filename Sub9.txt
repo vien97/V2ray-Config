@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸US-🚀@VPNine1
-vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@icv2ray
-vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
 vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#VPN @MimiTdl 🔥⚡
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#🇰🇿 Join+Telegram:@Farah_VPN 🇰🇿
 vless://a02e0f63-d96e-4b0f-8270-56c28caef171@51.158.151.24:31727?security=none&encryption=none&headerType=none&type=tcp#کانال تلگرام : Free_VPN_CH@
@@ -503,3 +499,7 @@ vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=/TELEGRAM_N
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#kurdconfig
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇳🇱@FreakConfig
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=/&security=none&encryption=none&type=ws#@Brayirani •☕ | عضو شید قطع نشید.
+vless://be5851ff-9af5-45ea-b874-a0a035714114@104.27.66.214:8443?path=/admin.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#@tanhanet
+vless://bea4ddd0-a014-434e-9eb4-f9c8822bf19e@104.16.61.8:443/?type=ws&encryption=none&host=usa.freesdns.info&path=/&security=tls&sni=usa.freesdns.info&alpn=http/1.1&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://beaa03e1-b66f-4a38-88a7-705afff3f8aa@a1.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🆓️🔥
+vless://bee2d8a6-5979-4e25-9aec-994a9d1f7778@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in5&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Sweden-se-client
