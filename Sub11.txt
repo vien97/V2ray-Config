@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_Fast
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@hex_proxy ⁷
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@hex_proxy ⁸
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@outline_ir
@@ -499,7 +503,3 @@ vless://f47a9a08-312f-835e-6edb-14674f0fa923@69.46.46.18:443?path=/ws/f47a9a08-3
 vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.soren-app.com.&type=ws&host=ovh04-cdn.soren-app.com.&path=/#@Daily_Configs
 vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@104.17.108.69:8443?path=/&security=tls&encryption=none&insecure=0&host=ovh04-cdn.soren-app.com.&type=ws&allowInsecure=0&sni=ssl.soren-app.com.#@meliproxyy
 vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@104.17.108.69:8443?path=/&security=tls&encryption=none&insecure=0&host=ovh04-cdn.soren-app.com.&type=ws&allowInsecure=0&sni=ssl.soren-app.com.#vpnsal
-vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
-vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
-vless://f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6@69.46.46.10:443?path=/ws/f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-36db.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-36db.up.railway.app#@V2ray_Alpha🤪 6
-vless://f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6@69.46.46.10:443?path=/ws/f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-36db.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-36db.up.railway.app#@bisto4_service

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
+vless://f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6@69.46.46.10:443?path=/ws/f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-36db.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-36db.up.railway.app#@V2ray_Alpha🤪 6
+vless://f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6@69.46.46.10:443?path=/ws/f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-36db.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-36db.up.railway.app#@bisto4_service
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@144.31.3.136:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=proud-dynamo.cdn.cachefleet.com&fp=chrome&security=reality&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&sid=#波兰
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.105.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com&fp=chrome&security=reality&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&sid=#英国
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.109.189:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gb.cdn.cachefleet.com&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
@@ -499,7 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%3E%3E%40V2rayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@fr3.levikogjgfdd.ir:8388#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#%3E%3E%40shadowproxy66%3A%3APL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%3E%3E%40V2rayNG3%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#%3E%3E%40oneclickvpnkeys%3A%3ACA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%3E%3E%40FreakConfig%3A%3ACA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#%3E%3E%40shadowproxy66%3A%3APL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@fr4.levikogjgfdd.ir:8388#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
