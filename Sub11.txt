@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#[25373] - Telegram : @V2All
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#[🇫🇷]t.me/ConfigV2RayNG
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#تلگرام ما MTMVPN 3
@@ -502,4 +503,3 @@ vless://e9c2d9fe-19de-48df-9fc8-9209573d817c@gru-jeruuuu-francr-anrd-arntunsnr-o
 vless://e9c2d9fe-19de-48df-9fc8-9209573d817c@gru-jeruuuu-francr-anrd-arntunsnr-ooknzehb-fopmant.profato.ir:443?security=reality&encryption=none&pbk=0bpQsTZakO8WYnhSCIos2lVrj2iBeKNFcoaGx6XSYSs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=7b031372b64a8872#[🇩🇪]t.me/ConfigV2RayNG
 vless://e9fb98e3-28bd-4ee4-962f-195c4f6354a0@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=parstoday.com.iribnews.ir.donya-e-eqtesad.com.alef.ir.donya-e-eqtesad.com.iribnews.ir.farsnews.ir&allowInsecure=0&sni=eARlY-maTErIAl37F06AQWD6.SaMsUNGovENS.iR#TEL;Father_vpn
 vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@cf-vless-4cf55824.aimall.fr:443?path=/connect&security=tls&encryption=none&insecure=0&host=cf-vless-4cf55824.aimall.fr&fp=chrome&type=ws&allowInsecure=0&sni=cf-vless-4cf55824.aimall.fr#🚀t.me/iProxyChannel
-vless://ea6db8fa-7e15-4eb2-87f1-22004ac00061@213.193.254.131:443?security=tls&encryption=none&fp=chrome&type=grpc&serviceName=sync.v2.SyncService&sni=video.she-happ.com#🇬🇧|GB|@wxgqlfx|166

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://009de8da-5607-4151-ac57-0d3c3c184abc@assets.sinafc.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=8ebe2a89&sni=stg-am-images.shop.samsung.com&spx=/f86bbcff85514c4&type=tcp#🇩🇪145862 | ⚡️Telegram = t.me/SOSkeyNET
 vless://009de8da-5607-4151-ac57-0d3c3c184abc@assets.sinafc.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=8ebe2a89&sni=stg-am-images.shop.samsung.com&spx=/f86bbcff85514c4&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://009de8da-5607-4151-ac57-0d3c3c184abc@dash.sinafc.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=8ebe2a89&sni=stg-am-images.shop.samsung.com&spx=/f86bbcff85514c4&type=tcp#🇩🇪145859 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://1cde7b4a-6dd7-4eb6-ba2e-41625d491300@149.33.36.32:443?security=reality&e
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
 vless://1d5a3836-1c2b-7b87-25db-917f29701da6@rvg-production-6c78.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=/xhttp-siz10/stream-up/1d5a3836-1c2b-7b87-25db-917f29701da6&host=rvg-production-6c78.up.railway.app&mode=stream-up&sni=rvg-production-6c78.up.railway.app&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://1d5a3836-1c2b-7b87-25db-917f29701da6@rvg-production-6c78.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=/xhttp-siz10/stream-up/1d5a3836-1c2b-7b87-25db-917f29701da6&host=rvg-production-6c78.up.railway.app&mode=stream-up&sni=rvg-production-6c78.up.railway.app&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#vpnsal
-vless://1d5a3836-1c2b-7b87-25db-917f29701da6@rvg-production-6c78.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/1d5a3836-1c2b-7b87-25db-917f29701da6&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=rvg-production-6c78.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-6c78.up.railway.app#@meliproxyy
