@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@freenettir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@irconfiig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@meliproxyy
@@ -502,4 +503,3 @@ trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&ho
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🦝 5
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ⁷
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
