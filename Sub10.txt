@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cd4afff1-73f5-2231-66b0-109e7b7b54d4@inetchnl2-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=inetchnl2-production.up.railway.app&path=/xhttp-siz10/stream-up/cd4afff1-73f5-2231-66b0-109e7b7b54d4&sni=inetchnl2-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇳🇱@iNetChnl-lowping
+vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&type=tcp&headerType=none#@bisto4_service : کانال تلگرام
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yandex.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&flow=xtls-rprx-vision#@MDvpnSEC
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yandex.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&flow=xtls-rprx-vision#vpnsal
@@ -501,5 +503,3 @@ vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#☑➜چنلمون: Express_freevpn@
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#⚛️69@ConfigV2RayNG
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=netheroijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=netheroijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
