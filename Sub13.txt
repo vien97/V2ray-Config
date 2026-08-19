@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ff16e22b-5530-4c42-8ece-838f27c3263e@72.56.32.106:7443?type=xhttp&security=tls&fp=chrome&sni=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/#[🇷🇺]t.me/ConfigsHub
-vless://ff16e22b-5530-4c42-8ece-838f27c3263e@72.56.32.106:7443?type=xhttp&security=tls&fp=chrome&sni=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/#🇷🇺147262 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@157.20.27.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apxc.falsemirrov.com&fp=chrome&security=reality&pbk=sbl95eJz_SP1vYb8doCjAJOo0o5NveutEb9J-XKGl1w&sid=9c2378562188c3cb#印度
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.100.164:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ger.nosok-top.com&fp=chrome&security=reality&pbk=NqYnddqVskPX-aTP4Vdip_XDnMphLwVtgc3XwTc2QVg&sid=9c2378562188c3cb#德国
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.51.253:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lt.nosok-top.com&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#立陶宛
@@ -503,3 +501,5 @@ trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-sh
 trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://FH72359861@worthy-perch.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://HC04361579@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://ND91608427@15.237.137.197:443?fp=chrome&sni=fancy-skink.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AFR
