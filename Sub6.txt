@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:8080?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | 🌐 | TelegramPeekConfig
+vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:80?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | 🌐 | TelegramPeekConfig
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#@meliproxyy
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#[25715] - Telegram : @V2All
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:80?path=/stream/PANEL_ZEUS/d536262105ae&security=none&encryption=none&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws#@meliproxyy
@@ -501,5 +503,3 @@ vless://74537cd2-28ff-3e41-e06a-299a60612247@69.46.46.100:443?path=/ws/74537cd2-
 vless://74537cd2-28ff-3e41-e06a-299a60612247@69.46.46.100:443?path=/ws/74537cd2-28ff-3e41-e06a-299a60612247&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-11b2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-11b2.up.railway.app#MTMVPN 21
 vless://74537cd2-28ff-3e41-e06a-299a60612247@69.46.46.100:443?path=/ws/74537cd2-28ff-3e41-e06a-299a60612247&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-11b2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-11b2.up.railway.app#🚀t.me/iProxyChannel
 vless://749f916d-17b2-4589-8ca6-44e89abbbfc0@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VEGAAS_VPN🇫🇮
-vless://74a025dd-c287-4acf-a5fb-e573e10feef9@cdn-cloudflare455.korvexe.ir:2095?path=/&security=none&encryption=none&host=cdn-cloudflare455.korvexe.ir&type=httpupgrade#@NETMelliAnti
-vless://74a025dd-c287-4acf-a5fb-e573e10feef9@cdn-cloudflare455.korvexe.ir:2095?path=/&security=none&encryption=none&host=cdn-cloudflare455.korvexe.ir&type=httpupgrade#🇨🇦139760 | ⚡️Telegram = t.me/SOSkeyNET
