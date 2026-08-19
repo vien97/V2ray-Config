@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&alpn=http/1.1&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#@V2ray_Alpha🐌 7
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&alpn=http/1.1&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#@meliproxyy
 vless://b9ada118-788a-90e6-dad0-20b658645de5@69.46.46.12:443?path=/ws/b9ada118-788a-90e6-dad0-20b658645de5&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-0f89.up.railway.app&fp=chrome&type=ws&sni=rvg-production-0f89.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?encryption=none&security=reality&sni=www.oracle.com&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&sid=7548bc&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
@@ -503,3 +502,4 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&e
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@icv2ray
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🚀t.me/iProxyChannel
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@tootffarangi🍓-1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@v2ray313 کانالمون 😁
