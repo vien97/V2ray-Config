@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ⁷
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Selinc
@@ -502,4 +503,3 @@ vless://16569657-116c-46ed-8920-758ab8abaac4@djuc1.rapidmesh.ir:2096?security=re
 vless://16569657-116c-46ed-8920-758ab8abaac4@djuc1.rapidmesh.ir:2096?security=reality&encryption=none&pbk=jqDgERbgQ5DVnJvw4p_j8XnM4GXUSXvPEn2t0TOtMms&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c2b19b0e0e625d01#🚀t.me/iProxyChannel
 vless://16985b71-7a9c-43ae-9769-d3b1c045ae85@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2rayi_net
 vless://16a1eeb0-8408-4592-a469-ecd33751021e@lvksp.kintuso.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lvksp.kintuso.com#@Net2ray | 🇫🇷 France, Paris
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@177.3.213.91:8443?security=reality&encryption=none&pbk=K28I3JdleSg0t7keUUZrS1CgtyC37WA32ViMkSXywHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=b2.cryptoofarm.com&sid=0c22c11e7224#🇧🇷 Brazil, São José do Rio Preto | [BL]

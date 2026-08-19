@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@177.3.213.91:8443?security=reality&encryption=none&pbk=K28I3JdleSg0t7keUUZrS1CgtyC37WA32ViMkSXywHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=b2.cryptoofarm.com&sid=0c22c11e7224#🇧🇷 Brazil, São José do Rio Preto | [BL]
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@2.27.201.57:2053/?type=grpc&encryption=none&flow=&serviceName=ni.cryptoofarm.com&sni=ni.cryptoofarm.com&security=reality&pbk=0DYv-zQp_9zz2MoLjwLSqOyhWRU7DcC8c_pvq6sLjkg&sid=8b97509663#channel_@networld_vpn
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@2.27.201.57:2053?encryption=none&fp=&pbk=0DYv-zQp_9zz2MoLjwLSqOyhWRU7DcC8c_pvq6sLjkg&security=reality&serviceName=ni.cryptoofarm.com&sid=8b97509663&sni=ni.cryptoofarm.com&type=grpc#🇺🇸147432 | ⚡️Telegram = t.me/SOSkeyNET
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@2.27.201.57:2053?encryption=none&fp=&pbk=0DYv-zQp_9zz2MoLjwLSqOyhWRU7DcC8c_pvq6sLjkg&security=reality&serviceName=ni.cryptoofarm.com&sid=8b97509663&sni=ni.cryptoofarm.com&type=grpc#🇺🇸US-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#@hex_proxy ⁸
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#@icv2ray
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#@meliproxyy
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#@outline_ir
