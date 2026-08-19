@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net@freenettir ⁴
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@SylphNet | 2026-07-12 21:21
 vless://35a44601-69f4-4f80-a287-c9f2f4d6df16@188.114.98.224:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#@Hope_Net-join-us-on-Telegram
 vless://35aa4cf8-c13c-58db-bd62-9de92225030f@95.164.38.6:2052?path=/vless/Telegram@V2ray_Alpha&security=none&encryption=none&host=www-domain.no1.v2vless.sitespeedtest.net&type=ws#@V2rayi_net
 vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
@@ -501,5 +503,3 @@ vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv0
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:80?&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&type=ws&headerType=none&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=/stream/TrexBridge/b52a90ada6ab#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#@freenettir
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#@meliproxyy
-vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#[25715] - Telegram : @V2All
-vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:80?path=/stream/PANEL_ZEUS/d536262105ae&security=none&encryption=none&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws#@freenettir
