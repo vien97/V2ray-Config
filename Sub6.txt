@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#@meliproxyy
+vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#[25715] - Telegram : @V2All
+vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:80?path=/stream/PANEL_ZEUS/d536262105ae&security=none&encryption=none&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws#@freenettir
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:80?path=/stream/PANEL_ZEUS/d536262105ae&security=none&encryption=none&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws#@meliproxyy
 vless://50414e45-4c5f-5a45-5553-eee583acacb4@104.16.171.227:2096?path=/stream/PANEL_ZEUS/eee583acacb4&security=tls&encryption=none&insecure=0&host=7qzzkleyutns.w8zcnperudas.workers.dev&type=ws&allowInsecure=0&sni=7qzzkleyutns.w8zcnperudas.workers.dev#🇨🇦146909 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5046e28c-5d06-4d5b-927f-269a83371f2c@146.75.119.82:80?path=ws/?ed=2048/@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR/?2048&security=none&encryption=none&host=rb24.ir&type=ws#@spiddy_ir
@@ -500,6 +503,3 @@ vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@uiv.taguenaby-backend.com:443?mode=
 vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443/?type=ws&encryption=none&flow=&path=/websocket?ed=2560&security=tls&sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&fp=chrome&packetEncoding=xudp#土耳其-01
 vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=chrome&security=tls#🇫🇮146775 | ⚡️Telegram = t.me/SOSkeyNET
 vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=chrome&security=tls#🚀@VPNine1
-vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537#@filembad
-vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537#🔵@chillguy_vpn
-vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&security=reality&fp=chrome&type=tcp&headerType=none&sni=play.google.com#@v2rayng3
