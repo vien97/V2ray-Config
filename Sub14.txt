@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2acde116-5949-48d8-a1e6-60a1d2547deb@lively-pine-093d.144-868.workers.dev:8880?encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://29fb68bb-ff05-4fd4-8393-cc6c05d81a79@purple-butterfly-8496.erfannull36.workers.dev:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&path=%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?alpn=h2&encryption=none&fp=firefox&host=deu683.lackerdeu.org&mode=auto&path=%2Fapi%2Fv1%2F&security=tls&sni=deu683.lackerdeu.org&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&security=none&encryption=none&host=royal-shape-3771.93-728.workers.dev&type=ws#%3E%3E%40v2ray1_ng%3A%3AUS
@@ -501,5 +503,3 @@ trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.156-0228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%F0%9F%87%AF%F0%9F%87%B5JP-176.97.73.215-0178
 trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.56.44-0215
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0231
-trojan://AE62539071@sacred-hound.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.108.20-0207

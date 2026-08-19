@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?path=/api/v2/camera/events/8f4c2d&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azs.benz.ink#🇷🇺139881 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.18.1.1:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=calm-smoke-1a21.alvlirm6262.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=calm-smoke-1a21.alvlirm6262.workers.dev#@meliproxyy
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.18.1.1:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=calm-smoke-1a21.alvlirm6262.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=calm-smoke-1a21.alvlirm6262.workers.dev#All--@V2rayAlpha--4
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.18.1.1:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=calm-smoke-1a21.alvlirm6262.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=calm-smoke-1a21.alvlirm6262.workers.dev#bisto4_service
@@ -501,5 +503,3 @@ vless://TradeIP.t.me@83.228.235.10:8443?security=reality&encryption=none&pbk=HL-
 vless://XpnTeam-11@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@EXPRESSVPN_420
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
