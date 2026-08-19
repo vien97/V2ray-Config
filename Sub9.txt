@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Masir_Sefid@83.228.227.31:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#@𝐌𝐚𝐬𝐢𝐫_𝐒𝐞𝐟𝐢𝐝🕊
-vless://Masir_Sefid@83.228.227.31:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#@𝐌𝐚𝐬𝐢𝐫_𝐒𝐞𝐟𝐢𝐝🕊✨️
 vless://Masir_Sefid@83.228.231.66:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#@𝐌𝐚𝐬𝐢𝐫_𝐒𝐞𝐟𝐢𝐝🕊
 vless://Masir_Sefid@83.228.231.66:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#@𝐌𝐚𝐬𝐢𝐫_𝐒𝐞𝐟𝐢𝐝🕊✨️
 vless://Parsashonam-136@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ParsashonamVPN.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@V2rayi_net
@@ -503,3 +501,5 @@ vless://b91abe1a-80ca-417b-998b-2b542661c16f@nl.feywebsite.ir:8008?mode=auto&pat
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@nl.feywebsite.ir:8008?mode=auto&path=/api/v1/stream&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=uUJJTIzw37fc46Ywh-LJIcobqF2Dim7JPCFm1VuMfFg&fp=chrome&spx=/bd5271eec396a9e&type=xhttp&sni=play.google.com&sid=c0c3011371b97459#@v2ray_phoenix
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@nl.feywebsite.ir:8008?mode=auto&path=/api/v1/stream&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=uUJJTIzw37fc46Ywh-LJIcobqF2Dim7JPCFm1VuMfFg&fp=chrome&spx=/bd5271eec396a9e&type=xhttp&sni=play.google.com&sid=c0c3011371b97459#برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&alpn=http/1.1&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#@V2ray_Alpha🐌 7
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&alpn=http/1.1&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#@meliproxyy
+vless://b9ada118-788a-90e6-dad0-20b658645de5@69.46.46.12:443?path=/ws/b9ada118-788a-90e6-dad0-20b658645de5&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-0f89.up.railway.app&fp=chrome&type=ws&sni=rvg-production-0f89.up.railway.app#All Operators @MaSTeRSeRVeR1
