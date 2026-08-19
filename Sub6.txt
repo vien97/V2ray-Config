@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@visa.cn:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@V2rayi_net
-vless://598b823c-d3fc-4013-aae5-837f10080f7a@api.kinomir.fun:40443?security=reality&encryption=none&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=33e48a03db900ff3#🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.70.47:440?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#🇩🇪All¹ | @BigSmoke_Config
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.70.47:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#☑➜چنلمون: Express_freevpn@
 vless://59a0424b-d36b-4685-bac5-89d50d8969a8@104.16.100.66:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=billowing-snowflake-f056.63-f14.workers.dev&type=ws#@hex_proxy ⁶
@@ -503,3 +500,6 @@ vless://7ce71b9a-888a-78c7-b90a-0de3e1abad01@69.46.46.14:443?path=/ws/7ce71b9a-8
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@146.103.122.129:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.orpheous.ru&sid=9e4eced6e98ed4d4#@meliproxyy
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@146.103.122.129:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.orpheous.ru&sid=9e4eced6e98ed4d4#Channel : @Daily_Configs
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@185.147.26.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=chrome&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&type=tcp&headerType=none#@Daily_Configs
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@185.147.26.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=chrome&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&type=tcp&headerType=none#@meliproxyy
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@185.147.26.175:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=yt.orpheous.ru&fp=chrome&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&spx=/HesarWeb#• 🇷🇺 | 𝗥𝘂𝘀𝘀𝗶𝗮 - @HesarWeb
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@185.147.26.175:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yt.orpheous.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&flow=xtls-rprx-vision#@freenettir
