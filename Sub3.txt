@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@MARAMBASHI 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@V2rayng_Fast 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.90.120:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@hex_proxy ²
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@170.114.45.239:443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#@MARAMBASHI 🚬
@@ -503,3 +502,4 @@ vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@104.20.6.134:443?path=/eyJqdW5rIjoi
 vless://20a78de0-bdc3-7068-860d-441000b15836@rvg-production-2017.up.railway.app:443?encryption=none&security=tls&type=ws&host=rvg-production-2017.up.railway.app&path=/ws/20a78de0-bdc3-7068-860d-441000b15836&sni=rvg-production-2017.up.railway.app&fp=chrome&alpn=h2#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇺🇸
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
+vless://20f21d96-3700-46d9-9f63-5933403c0c18@104.16.97.215:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=restless-math-7bde.299-75c.workers.dev&type=ws#@hex_proxy ¹

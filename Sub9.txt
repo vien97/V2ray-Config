@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#@v2rayng3
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@FarazV2ray
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@Selinc
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@icv2ray
@@ -503,3 +502,4 @@ vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:80?path=/&security=n
 vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:80?path=/&security=none&encryption=none&type=ws#@vmesc
 vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:80?path=/&security=none&encryption=none&type=ws#@vmesskhodam
 vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:8880?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
+vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:8880?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
