@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
-vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?path=/&security=tls&encryption=none&insecure=0&host=new01.asaltabie.monster&fp=chrome&type=ws&allowInsecure=0&sni=new01.asaltabie.monster#@icv2ray
-vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=/11030/api1#[25695] - Telegram : @V2All
 vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=/11030/api1#🇩🇪All⁷ | @BigSmoke_Config
 vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?path=/11030/api1&security=tls&encryption=none&insecure=0&host=onisni.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=onisni.irandoc.info#kurdconfig
 vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?path=/&security=tls&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net&#❤️‍🔥 کانال تلگرام HiByeVPNN@
@@ -503,3 +500,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?security=none&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha🦃 5
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?security=none&encryption=none&headerType=none&type=tcp#Telegram:@v2rayng3
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22224?security=&encryption=none&headerType=none&type=tcp#🚀t.me/iProxyChannel
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.0.55:22222?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
