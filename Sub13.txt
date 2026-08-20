@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fe28f746-6051-481c-801c-1d153ebc5995@pichi.picmusic.ir:15882?security=reality&encryption=none&pbk=gZT_3S5MB7JX7lYznOoo9CgMXpJtwEy7ChVtybbUjz4&headerType=none&fp=chrome&spx=/&type=tcp&sni=arxiv.org&sid=f378eb2f#@Begoo_VPN ²⁷⁹
-vless://fe3b26ec-4bc0-464d-a7b9-2db72a89846e@104.17.181.19:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=orange-base-2e09.87-c52.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://fe6cd26d-5037-4a0d-a3bc-2538c7bbf2c8@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=moj.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@freenettir
 vless://fe6cd26d-5037-4a0d-a3bc-2538c7bbf2c8@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=moj.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@meliproxyy
 vless://fe6cd26d-5037-4a0d-a3bc-2538c7bbf2c8@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=moj.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Telegram Proxy_mtm 10
@@ -503,3 +501,5 @@ trojan://FH72359861@touching-turtle.rooster465.autos:443#%3E%3E%40oneclickvpnkey
 trojan://FH72359861@touching-ostrich.rooster465.autos:443?allowInsecure=0&sni=touching-ostrich.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://FH72359861@smiling-fowl.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://FH72359861@worthy-perch.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://HC04361579@exact-sawfish.rooster465.autos:443?allowInsecure=0&sni=exact-sawfish.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://XpnTeam-38@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-38@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-38@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-38@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-39@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
@@ -503,3 +501,5 @@ vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.servers.gracevpnbuy.com&sid=b91a73752053b039#🇺🇸 United States, Ashburn | [BL]
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de.servers.gracevpnbuy.com&fp=chrome&insecure=1&allowInsecure=1&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&flow=xtls-rprx-vision#@freenettir
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de.servers.gracevpnbuy.com&fp=chrome&insecure=1&allowInsecure=1&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&flow=xtls-rprx-vision#@meliproxyy
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de.servers.gracevpnbuy.com&fp=chrome&insecure=1&allowInsecure=1&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&flow=xtls-rprx-vision#🔵@chillguy_vpn
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?fp=chrome&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&security=reality&sid=b91a73752053b039&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&encryption=none&type=tcp&headerType=none#@filembad

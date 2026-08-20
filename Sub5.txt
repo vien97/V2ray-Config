@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&flow=xtls-rprx-vision&sni=auto.cendora.ru&encryption=none&sid=a7f3c91b2e6d84c0&headerType=none&security=reality&type=tcp&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI#@Alpha_v2rayIP
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#@FarazV2ray
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#@V2rayng_Fast
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#@erfanandroid
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#@irconfiig
@@ -503,3 +501,5 @@ vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=/&security=
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://5fec9672-5ee7-31b4-5639-4a5379d4eb80@g1.pars2khaazaar.ir:2086?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Tdk8aoUJ0MnoIQaAwqZVKuDxC5Q-5s9iMrnjwvusIHg&sid=19f4730f746d&spx=/battel#@MDvpnSEC
 vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@212.135.38.193:443?security=reality&encryption=none&pbk=LQ4cJhrzBRuRu3Nb3xUaHEBkPEJ7P5Uca5bFAbMj0is&host=www.cloudflare.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b8e2ce6fc1d12895#@configprxy
+vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#kurdconfig
+vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇬🇧@FreakConfig
