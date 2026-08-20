@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman3.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#@Maznet - SOS517
 vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?encryption=none&type=ws&path=/v1&host=rzd.ru&security=none#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=/vless/&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#@v2ray313 کانالمون 🦋
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.246.131.163:443?security=reality&encryption=none&pbk=Zy0CcZpChDo3kB_CTyhe3Q6yv6MVDzxg--kl_xh0nzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bg5.eu-cdn539.com&sid=ecafd5d73dd26f72#@vmesskhodam
@@ -503,3 +502,4 @@ vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@72.56.240.99:443?security=reality&e
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@81.19.135.191:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#@freenettir
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@81.19.135.191:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#@meliproxyy
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@pl.chick-team.ru:443?flow=xtls-rprx-vision&headerType=none&encryption=none&security=reality&fp=chrome&sni=pl.chick-team.ru&pbk=tPkLNwERe23qHETdRm0NN6TSF-bwvUeWKnmXR8CK3nc&type=tcp&sid=58d746158028c90d#🇵🇱147739 | ⚡️Telegram = t.me/SOSkeyNET
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http#کانال تلگرام : Free_VPN_CH@

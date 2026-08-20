@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Telegram@Cooonfig@91.107.240.230:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@CfoX_SerVer 🇩🇪
 vless://Telegram🇨🇳 @WangCai2@160.153.0.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@v2ray313 کانالمون ❤️‍🩹
 vless://TradeIP.t.me@83.228.235.10:8443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=/d5029e289305f39&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#⚡️ 𝗡𝗲𝗧𝗠𝗲𝗹𝗶 ⚡️ | @prrofile_purple
 vless://XpnTeam-11@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@EXPRESSVPN_420
@@ -503,3 +502,4 @@ vless://b91abe1a-80ca-417b-998b-2b542661c16f@nl.feywebsite.ir:8008?mode=auto&pat
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&alpn=http/1.1&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#@V2ray_Alpha🐌 7
 vless://b9ada118-788a-90e6-dad0-20b658645de5@69.46.46.12:443?path=/ws/b9ada118-788a-90e6-dad0-20b658645de5&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-0f89.up.railway.app&fp=chrome&type=ws&sni=rvg-production-0f89.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?encryption=none&security=reality&sni=www.oracle.com&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&sid=7548bc&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://b9ea760d-3200-4d6d-8000-30514ebbce5a@104.26.13.40:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=aged-pine-d8c4.379.workers.dev&type=ws#@hex_proxy ³
