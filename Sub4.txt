@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=upnl.pabloping.pro&path=/pabloping&mode=auto#کانال تلگرام : Free_VPN_CH@
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s4.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
 vless://22aea82d-1894-d89e-514d-c496c41b2c0d@rvg-production-ab3b7.up.railway.app:443?path=/ws/22aea82d-1894-d89e-514d-c496c41b2c0d&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#@icv2ray
 vless://22aea82d-1894-d89e-514d-c496c41b2c0d@rvg-production-ab3b7.up.railway.app:443?path=/ws/22aea82d-1894-d89e-514d-c496c41b2c0d&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=rvg-production-ab3b7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-ab3b7.up.railway.app#@icv2ray
@@ -503,3 +502,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.153.127:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.167.192:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.50.127:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.50.127:80?security=none&type=ws&host=us3.rtacg.com&path=/#[25839] - Telegram : @V2All

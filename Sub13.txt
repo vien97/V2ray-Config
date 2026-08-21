@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-mehrosaboran?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@mehrosaboran
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-mehrosaboran?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#mehrosaboran?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@ConfigV2RayNG
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@Alpha_V2rayip
@@ -503,3 +502,4 @@ trojan://FH72359861@63.176.171.181:443?allowInsecure=1&sni=engaging-toucan.roost
 trojan://FH72359861@89.39.70.120:443?sni=pro-crane.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://FH72359861@alive-snapper.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://FH72359861@cunning-grub.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://FH72359861@emerging-porpoise.rooster465.autos:443?allowInsecure=0&sni=emerging-porpoise.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
