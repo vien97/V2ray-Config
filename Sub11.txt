@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=de8d3223e7d85761#Channel : @Daily_Configs
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=de8d3223e7d85761#MTMVPN 34
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=de8d3223e7d85761#@MARAMBASHI 🇬🇧
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=de8d3223e7d85761#@V2rayng_Fast 🇬🇧
@@ -502,4 +503,3 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#@icv2ray
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#@vmess_ir
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#https:// 12
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?type=ws&fp=chrome&encryption=none&host=po.fastbrokencompony.com&path=/?ed=2053&insecure=0&allowInsecure=0&sni=po.fastbrokencompony.com&security=tls&alpn=h3,h2,http/1.1#4 🇩🇪 @V2RAYNG_IP
