@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?encryption=none&security=reality&sni=shop-eu-de.amd.com&fp=chrome&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&sid=09&spx=/d1391238c7e6e89&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?encryption=none&security=reality&sni=shop-eu-de.amd.com&fp=chrome&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&sid=09&spx=/d1391238c7e6e89&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI#@Daily_Configs : کانال تلگرام
 vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=chrome&spx=/d1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#MTMVPN 6
 vless://04341b83-fae3-4659-ac1b-08112bb847fd@peo.awexaio.shop:2086?security=reality&encryption=none&fm={"tcp":[],"udp":[],"quicParams":{}}&pbk=FdedLVqgh4rCCzYydDap0cmzOuhnw2hdwpj0C4G1sjU&host=msedge.b.tlu.dl.delivery.mp.microsoft.com&headerType=http&fp=chrome&type=tcp&sni=support-shield.nvidia.nl&sid=b91fc778714c36a6#@meliproxyy
@@ -502,4 +503,3 @@ vless://247396b2-12d9-4744-8203-9cd761a1117a@cl.ultrrasound.com:2096?path=/&secu
 vless://247396b2-12d9-4744-8203-9cd761a1117a@forallpanel.srtongston.ir:2096?encryption=none&security=tls&sni=bahr.musichubmel.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=bahr.musichubmel.ir&path=/#@Ap_Ir6
 vless://247396b2-12d9-4744-8203-9cd761a1117a@soskeynets.srtongston.ir:2096?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=bahr.musichubmel.ir&fp=chrome&type=ws&allowInsecure=0&sni=bahr.musichubmel.ir#🇨🇦139739 | ⚡️Telegram = t.me/SOSkeyNET
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=k-wk6CQguQMtipx1iMfDyZhyUL4FSS4T4ISLC9YTeh4&headerType=none&fp=chrome&spx=/8a2dvjADssH7mCs&type=tcp&sni=www.nvidia.com&sid=fa#🔴@v2rayngsupbot
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=/api#🇨🇦139814 | ⚡️Telegram = t.me/SOSkeyNET
