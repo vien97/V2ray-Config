@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@V2rayng_Fast
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@icv2ray
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-6
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#Channel : @Daily_Configs
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#GeneralConfiig
@@ -501,5 +503,3 @@ trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3APL
 trojan://FH72359861@3.112.200.59:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=new-eagle.rooster465.autos#%3E%3E%40configV2rayNG%3A%3AJP
-trojan://FH72359861@3.253.78.205:443?allowInsecure=1&sni=balanced-heron.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
-trojan://FH72359861@34.245.159.68:443?sni=summary-firefly.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE

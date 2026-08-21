@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#@MDvpnSEC
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#GeneralConfiig
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#🇫🇷148973 | ⚡️Telegram = t.me/SOSkeyNET
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#🚀t.me/iProxyChannel
@@ -501,5 +503,3 @@ vless://432ab7a2-6e2b-4f0b-be4a-06bdcc714624@bftu-stnbal.servora.top:443/?type=t
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#TEL;Father_vpn
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇨🇦149013 | ⚡️Telegram = t.me/SOSkeyNET
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🚀@VPNine1
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.162.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
