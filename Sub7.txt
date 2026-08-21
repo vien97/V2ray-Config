@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#MTMVPN 23
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#MTMVPN 50
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#تلگرام MTMVPN 12
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.80.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#[🇨🇦]t.me/ConfigV2RayNG
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.17.3.81:443?type=ws&security=tls&sni=josni.hoyes.cloudns.ch&path=/sg-melbi/Telegram-MTMVPN-Telegram-MTMVPN-Telegram-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPNMTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-&host=josni.hoyes.cloudns.ch#🇨🇦148877 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://90e8474f-a4d8-50a9-5817-444f8332a1fb@inetchnl-production-3be6.up.railway
 vless://90eacce7-8baa-49a4-be0e-eb056e0f7a01@channelhollowcon.onrender.com:443?encryption=none&security=tls&sni=channelhollowcon.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=channelhollowcon.onrender.com&path=/ws/90eacce7-8baa-49a4-be0e-eb056e0f7a01#@hollowcon
 vless://91474b70-88c0-84ac-c195-ec79fdf142bd@lin-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=lin-production.up.railway.app&path=/ws/91474b70-88c0-84ac-c195-ec79fdf142bd&sni=lin-production.up.railway.app&fp=chrome&alpn=h2#🇺🇸148935 | ⚡️Telegram = t.me/SOSkeyNET
 vless://91474b70-88c0-84ac-c195-ec79fdf142bd@lin-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=lin-production.up.railway.app&path=/ws/91474b70-88c0-84ac-c195-ec79fdf142bd&sni=lin-production.up.railway.app&fp=chrome&alpn=h2#🇺🇸US-🚀@VPNine1
+vless://919eef53-e931-4928-83f7-d880ee7b9804@185.178.46.50:443?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=423bccc9c13fb509#🇷🇺@FreakConfig
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#🚀t.me/iProxyChannel
