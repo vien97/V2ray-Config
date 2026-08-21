@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#@configforVPN
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gateway.icloud.com&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹⁴ | @BigSmoke_Config
 vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gateway.icloud.com&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁴ | @BigSmoke_Config
 vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gateway.icloud.com&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁹ | @BigSmoke_Config
 vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#Channel : @Daily_Configs
@@ -501,5 +503,3 @@ vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=/&security=
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://5fec9672-5ee7-31b4-5639-4a5379d4eb80@g1.pars2khaazaar.ir:2086?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Tdk8aoUJ0MnoIQaAwqZVKuDxC5Q-5s9iMrnjwvusIHg&sid=19f4730f746d&spx=/battel#@MDvpnSEC
 vless://5fec9672-5ee7-31b4-5639-4a5379d4eb80@g1.pars2khaazaar.ir:2086?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=Tdk8aoUJ0MnoIQaAwqZVKuDxC5Q-5s9iMrnjwvusIHg&sid=19f4730f746d&spx=/battel#🇮🇷148560 | ⚡️Telegram = t.me/SOSkeyNET
-vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.251.106:8880?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇬🇧@FreakConfig

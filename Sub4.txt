@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🔷️@ai_duet
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&alpn=http/1.1&encryption=none&fp=chrome&type=ws#@meliproxyy
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws&sni=ov-italy1.09vpn.com#@V2ray_Alpha🏗️ 8
 vless://1e3332a1-82d4-3c60-166b-5c54db9ff355@69.46.46.30:443?path=/ws/1e3332a1-82d4-3c60-166b-5c54db9ff355&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-01ad.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-01ad.up.railway.app#kurdconfig
 vless://1e3332a1-82d4-3c60-166b-5c54db9ff355@69.46.46.30:443?path=/ws/1e3332a1-82d4-3c60-166b-5c54db9ff355&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-01ad.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-01ad.up.railway.app#🇳🇱@FreakConfig
@@ -501,5 +503,3 @@ vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&
 vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn4-81.yahoo.com&sid=abe4a59b9f2407e3#@v2rayng3
 vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?type=tcp&flow=xtls-rprx-vision&headerType=none&sni=cdn4-81.yahoo.com&security=reality&fp=chrome&sid=abe4a59b9f2407e3&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&encryption=none#@v2rayng3
 vless://40b46f64-d8a5-4496-b86f-1d6db7d4bf39@95.179.159.222:19436?encryption=none&security=none&type=tcp@soskeynets#🇳🇱139783 | ⚡️Telegram = t.me/SOSkeyNET
-vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#@configforVPN
-vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gateway.icloud.com&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹⁴ | @BigSmoke_Config

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
+vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=/11030/api1#[25695] - Telegram : @V2All
 vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=/11030/api1#🇩🇪All⁷ | @BigSmoke_Config
 vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?path=/&security=tls&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net&#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://d171491a-9995-46ce-8719-f64463ca3a45@104.26.0.7:443?path=/download.php&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Channel id: @ConfigV2RayNG 🇨🇦
@@ -501,5 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22224?security=none&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22224?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.111.210:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?encryption=none&security=none&type=tcp&headerType=none#vpnsal
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All¹ | @BigSmoke_Config
