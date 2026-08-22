@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori
-vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#Telegram: @Configfori
-vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#Telegram: @Configfori
-vless://47f70ee6-9b40-4da8-8974-6a239a48108a@159.69.180.75:8443?security=none&encryption=none&host=www.apple.com&headerType=http&type=tcp#🇩🇪 ꜱɪʟᴇɴᴛ ɴᴇᴛᴡᴏʀᴋ
 vless://47f70ee6-9b40-4da8-8974-6a239a48108a@159.69.180.75:8443?security=none&encryption=none&host=www.apple.com&headerType=http&type=tcp#🇩🇪@v2ryNG01 جدید ترین
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.151.172:443?type=ws&security=tls&sni=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&path=/&host=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&fp=chrome#🇨🇦139911 | ⚡️Telegram = t.me/SOSkeyNET
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.167.231:2087?security=tls&sni=xini.ylks.link&type=ws&path=/#@Hope_Net-join-us-on-Telegram
@@ -503,3 +499,7 @@ vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@shop.jarorobo.ir:443?security=reali
 vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@shop.jarorobo.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/6f698eeb18da71b&type=tcp&sni=www.github.com&sid=ab5b#@icv2ray
 vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.215:448?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.samsung.com&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=derman.neobo-tooth.ru&fp=chrome#نتورلد تو تلگرام جستجو کنید
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&type=grpc&security=tls&serviceName=grpc&mode=gun&sni=derman.neobo-tooth.ru&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=derman.neobo-tooth.ru#☑➜چنلمون: Express_freevpn@
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096/?type=ws&encryption=none&flow=&path=/#نتورلد تو تلگرام جستجو کنید
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?encryption=none&path=/&security=none&type=ws#🐦‍🔥18@oneclickvpnkeys
