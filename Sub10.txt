@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&type=tcp&headerType=none#@Daily_Configs
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&sni=gb.cdn.cachefleet.com&fp=chrome&insecure=1&allowInsecure=1&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&flow=xtls-rprx-vision#@meliproxyy
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&type=tcp&security=reality&headerType=none&sni=gb.cdn.cachefleet.com&fp=chrome&insecure=1&allowInsecure=1&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&flow=xtls-rprx-vision#@meliproxyy
@@ -503,3 +502,4 @@ vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@leviconfigs🪐-7
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@meliproxyy
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@tootffarangi🍓-7
+vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@tootffarangi🍓-9
