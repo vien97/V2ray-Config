@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng#کانال تلگرام : Free_VPN_CH@
 vless://275ee16f-9df8-2933-d942-dc71f0ccfd11@69.46.46.200:443?path=/ws/275ee16f-9df8-2933-d942-dc71f0ccfd11&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-c230.up.railway.app&fp=chrome&type=ws&sni=rvg-production-c230.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://275ee16f-9df8-2933-d942-dc71f0ccfd11@69.46.46.200:443?path=/ws/275ee16f-9df8-2933-d942-dc71f0ccfd11&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-c230.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-c230.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?mode=auto&path=/G3EEoH63&security=reality&encryption=none&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&fp=chrome&type=xhttp&sni=www.amazon.com&sid=f57d8f26#@v2ray313 کانالمون 😇
@@ -503,3 +502,4 @@ vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?securi
 vless://44289654-8618-403b-a573-a79a849100ce@rose5.lhpuniversity.online:54338?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?security=reality&encryption=none&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&headerType=none&fp=chrome&type=tcp&sni=tasnimnews.ir&sid=3b225391611b29e5#چنل عضو شو @v2ra_config
 vless://4469b81d-2b6f-1f89-3d0b-3cd4fbcbd303@69.46.46.123:443?path=/ws/4469b81d-2b6f-1f89-3d0b-3cd4fbcbd303&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-e6ae.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-e6ae.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&security=reality&sid=01d1bf2d4755d40c&sni=deepl.com&type=tcp#🧮61@oneclickvpnkeys

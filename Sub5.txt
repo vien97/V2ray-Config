@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&security=reality&sid=01d1bf2d4755d40c&sni=deepl.com&type=tcp#🧮61@oneclickvpnkeys
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#@v2rayng3
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=chrome&insecure=1&allowInsecure=1&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&flow=xtls-rprx-vision#@freenettir
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=chrome&insecure=1&allowInsecure=1&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&flow=xtls-rprx-vision#@meliproxyy
@@ -503,3 +502,4 @@ vless://64abd4e7-59ad-4a74-e3df-cd5d87cc105a@www.speedtest.net:8880?path=/@LOCKE
 vless://64f4d1c3-12fc-8070-c36f-774aaacca63f@69.46.46.50:443?path=/ws/64f4d1c3-12fc-8070-c36f-774aaacca63f&security=tls&alpn=http/1.1&encryption=none&host=ashi-production.up.railway.app&fp=chrome&type=ws&sni=ashi-production.up.railway.app#🇺🇸149938 | ⚡️Telegram = t.me/SOSkeyNET
 vless://653aea5e-2157-4a1f-89bf-8b46fb677921@185.178.208.176:443/?type=ws&encryption=none&flow=&host=stream.telemetryapi.uk&path=/api/v2/client/session/connect&security=tls&sni=stream.telemetryapi.uk&fp=chrome#channel_@networld_vpn
 vless://653aea5e-2157-4a1f-89bf-8b46fb677921@185.178.208.176:443?encryption=none&fp=chrome&host=stream.telemetryapi.uk&path=/api/v2/client/session/connect&security=tls&sni=stream.telemetryapi.uk&type=ws#🍥68@oneclickvpnkeys
+vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡

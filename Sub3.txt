@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.164:13868?security=reality&encryption=none&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoox.com&sid=e852dc#@SPIDDY_IR-3
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.164:13868?security=reality&encryption=none&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoox.com&sid=e852dc#@v2ray313 کانالمون 🐺
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.105.52:13868?security=reality&encryption=none&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#@CfoX_SerVer 🇩🇪
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.126:13868?security=reality&encryption=none&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wp.pl&sid=e852dc#🇵🇱139889 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://2626527c-ba9a-4b96-a96e-bfa26e16c0bf@best3.daltoon-server.ir:330?securit
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@KAFING_2
 vless://2643e48a-898d-bc59-39eb-1da800000005@www.speedtest.net:443?path=/v2box&security=tls&encryption=none&insecure=0&host=a.testiam18.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.testiam18.workers.dev#@meliproxyy
 vless://2643e48a-898d-bc59-39eb-1da800000005@www.speedtest.net:443?path=/v2box&security=tls&encryption=none&insecure=0&host=a.testiam18.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.testiam18.workers.dev#configprxy
+vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng#کانال تلگرام : Free_VPN_CH@
