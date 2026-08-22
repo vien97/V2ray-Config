@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22223?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&headerType=none&type=tcp#@Capoit
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
@@ -503,3 +502,4 @@ vless://f92259d6-7cc1-4b47-b469-48a7863b8b09@alirezaturk.saforia.ir:63136?securi
 vless://f93cffab-a048-4d60-85d7-e9dbfe0e2df8@hollowcon-c5lo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-c5lo.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-c5lo.onrender.com&path=/ws/f93cffab-a048-4d60-85d7-e9dbfe0e2df8#@hollowcon
 vless://f9ab068c-c4ce-4d34-8bee-1d8304014665@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://fa0aa0ba-3117-46de-8ce3-0fe621945653@xn--zn-gpa36i.paydar.site:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@CfoX_SerVer 🇩🇪
+vless://fa0f1a88-70d9-45b2-a51d-c56cc252cd6d@107.172.243.149:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=services.digitaleast.mobi&pbk=VJwBthRcBwhGwneFMFK-9IsC-TbEgs7ZvIVn2bg6oQo&sid=f444&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
