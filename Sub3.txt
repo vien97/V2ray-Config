@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://077add45-55fa-4f07-86b2-fed58f189f96@93.114.98.84:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@V2rayng_Fast
-vless://07d8d513-d7a7-4e2e-a561-2a0d1b6731ce@79.137.197.125:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=scstSNvoaY9_9cauw_7JGQMWciyqpO4NTRrhT0yOY1A&sid=d2d732ba&spx=/a5IcjbVyX6aZVS2&type=xhttp&host=subgift.ggff.net&path=/subgift&mode=auto&extra={"mode":"auto","xPaddingBytes":"0"}#108
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@109.120.189.160:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@5.188.141.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN#کانال تلگرام : Free_VPN_CH@
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
@@ -503,3 +501,5 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=n
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=upnl.pabloping.pro&path=/pabloping&mode=auto#کانال تلگرام : Free_VPN_CH@
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s4.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?path=/&security=none&encryption=none&host=sRv79.hAMiIbaR.CoM&type=ws#🇸🇨 @GozargahVPN
+vless://22c6684b-cd4f-4c8e-62e3-a17fc698471f@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=/BetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#🇮🇷139825 | ⚡️Telegram = t.me/SOSkeyNET
+vless://22df7ca3-ce10-48a9-a582-a3894296049e@104.18.1.1:443?path=/eyJqdW5rIjoiWm1TZTQ0NVdZalBwYmtpdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ezaccess-project-53562a.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=ezacCeSs-PRojEct-53562a.PaGES.dev#🇩🇪1

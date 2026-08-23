@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect#TELEGRAM-mehrosaboran?ed&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#@mehrosaboran
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect&security=tls&encryption=none&host=129.121.95.159&fp=chrome&type=ws&sni=129.121.95.159#@Capoit
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect&security=tls&encryption=none&host=129.121.95.159&fp=chrome&type=ws&sni=129.121.95.159#✅  @vistav2ray  👈👈کانال ما ✅
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#@Netshot1   🍁 🚀| با ما متصل بمون⚡ 1
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#@leviconfigs🪐-15
@@ -503,3 +501,5 @@ trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#%3E%3E%
 trojan://FH72359861@modern-bedbug.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://FH72359861@tough-tuna.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
+trojan://FH72359861@optimal-urchin.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://FH72359861@natural-swan.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK

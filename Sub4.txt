@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://22c6684b-cd4f-4c8e-62e3-a17fc698471f@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=/BetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#🇮🇷139825 | ⚡️Telegram = t.me/SOSkeyNET
-vless://22df7ca3-ce10-48a9-a582-a3894296049e@104.18.1.1:443?path=/eyJqdW5rIjoiWm1TZTQ0NVdZalBwYmtpdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ezaccess-project-53562a.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=ezacCeSs-PRojEct-53562a.PaGES.dev#🇩🇪1
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=/&security=tls&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#[27369] - Telegram : @V2All
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@configprxy
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@freenettir
@@ -503,3 +501,5 @@ vless://4107ea1d-6d72-cdc3-49e3-acd0f9522617@69.46.46.123:443?path=/ws/4107ea1d-
 vless://415e1948-58d6-530d-7b0a-fd911209b5a5@inetchnl-production-9849.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-9849.up.railway.app&path=/ws/415e1948-58d6-530d-7b0a-fd911209b5a5&sni=inetchnl-production-9849.up.railway.app&fp=chrome&alpn=http/1.1#🇳🇱@iNetChnl-VLESS
 vless://416475e5-9e6b-4fa6-8da8-8ab269ed3ef7@2.26.124.49:443?security=reality&encryption=none&pbk=wPIraZcr8xADIe7BxQvd4W7BUYytsr6tNIplX49HXko&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=858c88a7835dc87c#kurdconfig
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.29:443?security=reality&encryption=none&pbk=qOraT1A2tq0v0HIZlcplEnqXx4Sn-99z_EKNqTEZv1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.29.sslip.io&sid=6ecabc17bcfb4291#@freenettir
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.29:443?security=reality&encryption=none&pbk=qOraT1A2tq0v0HIZlcplEnqXx4Sn-99z_EKNqTEZv1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.29.sslip.io&sid=6ecabc17bcfb4291#@meliproxyy
