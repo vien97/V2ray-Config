@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8ff538e4-330c-43c1-97c8-0c90bf989331@81.12.56.132:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shoping2.gfdcty.ir#@appsooner کانال تلگرام 🕊️
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&spx=/ozks0ksxmyHue4v&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://901e51d7-0f57-4ee5-9124-b75bc5bd9cb1@shinkansen.proxy.rlwy.net:18354?type=xhttp&encryption=none&path=/&host=&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&security=reality&pbk=k4sRaoimxVxcxCZ0KODxw0wOCt94yaXmM_fYa9tlLkw&fp=chrome&sni=is1-ssl.mzstatic.com&sid=446d558e&spx=/#🇺🇸US-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?encryption=
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&path=/&security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&fp=chrome&type=xhttp&sni=universe.whit3.net&sid=4eb17bfdb000bef0#@Azaranv2ray
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&path=/&security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&fp=chrome&type=xhttp&sni=universe.whit3.net&sid=4eb17bfdb000bef0#@filembad
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&path=/&security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&fp=chrome&type=xhttp&sni=universe.whit3.net&sid=4eb17bfdb000bef0#@v2raybaaz²
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&path=/&security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&fp=chrome&type=xhttp&sni=universe.whit3.net&sid=4eb17bfdb000bef0#filembad-332
