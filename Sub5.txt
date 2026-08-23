@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://473e6f25-5878-000e-8917-2c67261df474@82.40.63.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.api-yandex.net&fp=chrome&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&sid=0f4dacffd272e65f&type=tcp&headerType=none#filembad-155
+vless://473e6f25-5878-000e-8917-2c67261df474@82.40.63.73:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@FarazV2ray
 vless://473e6f25-5878-000e-8917-2c67261df474@82.40.63.73:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@tootffarangi🍓-5
 vless://473e6f25-5878-000e-8917-2c67261df474@82.40.63.73:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#GeneralConfiig
 vless://473e6f25-5878-000e-8917-2c67261df474@82.40.63.73:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#MTMVPN17
@@ -501,5 +503,3 @@ vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:53147?encryption=none&
 vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@tootffarangi🍓-3
 vless://6a1f6c94-7785-42e2-9203-381d1f4db37e@103.100.158.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=1xIu8ESLs4JviWXp8XaOceWAEVHqWLzNIiojA_uf8Ug&sid=83feb7aa267e9ddf#日本
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@pl2.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=IGG9oVIr32rd2ozIyH2LmpJGctaKr77IjRlbWolhBCY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=poland.boxypn.com#@confiig_hub
-vless://6a38827e-d102-49ff-b7aa-2e2bb26f15ee@pnl.forvian.ir:8080?encryption=mlkem768x25519plus.native.0rtt.vNi2yC3YTs08RvzaKw2bujHIpKwkl3UbasMnsttLvkA&security=tls&sni=pnl.forvian.ir&fp=chrome&alpn=h2,http/1.1,h3&type=xhttp&host=pnl.forvian.ir&path=/pdnc&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Daily_Configs

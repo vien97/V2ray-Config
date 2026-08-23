@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&type=grpc&authority=&serviceName=your-custom-path&mode=gun#🇷🇺139742 | ⚡️Telegram = t.me/SOSkeyNET
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.pl.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱 چنل تلگرام : @EXPRESSVPN_420
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.us.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇺🇸 چنل تلگرام : @EXPRESSVPN_420
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷 چنل تلگرام : @EXPRESSVPN_420
@@ -501,5 +503,3 @@ vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=no
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#@Net2ray United Kingdom 🇬🇧
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#@Net2ray United Kingdom 🇬🇧  نامحدود لوکیشن انگلیس 🆔 t.me/Net2ray
 vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?encryption=none&security=none&type=tcp&headerType=http&host=cdn-apple.com#@Daily_Configs
-vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?encryption=none&type=tcp&headerType=http&host=cdn-apple.com#configprxy
-vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#@Selinc
