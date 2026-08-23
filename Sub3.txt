@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://085c75ad-c00b-43fb-8fea-fa0caefa0a60@38.125.120.76:443?security=reality&encryption=none&pbk=tOWJAWnCPaJZvqorglX2JAuT5mDrSSA9VPCd90DSZRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=241c2a5b9073f934#@v2raybaaz⁴
 vless://085c75ad-c00b-43fb-8fea-fa0caefa0a60@38.125.120.76:443?security=reality&encryption=none&pbk=tOWJAWnCPaJZvqorglX2JAuT5mDrSSA9VPCd90DSZRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=241c2a5b9073f934#@v2raybaaz⁵
@@ -502,4 +503,3 @@ vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=r
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇦🇪@FreakConfig
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#MTMVPN6
 vless://294bf801-bfbe-4f29-9a03-3a9736a9674b@m13r.speedtestmark.com:443?security=reality&encryption=none&pbk=Bp49BC_XtsdC4Jvp5p-vfR1voCti6QrYyIPKQSIt_Hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m2r.speedtestmark.com&sid=4326#✅ t.me/bigAVPN ایران آزاد 👑
-vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#🇮🇷139837 | ⚡️Telegram = t.me/SOSkeyNET
