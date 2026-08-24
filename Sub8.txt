@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#MTMVPN🔥
+vless://899677ed-5842-47e3-9aa1-d7a7562bc4c8@assets.sinafc.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=/6732465e62697af&type=tcp&sni=org.semiconductor.samsung.com&sid=e075c3934f#Telegram Proxy_mtm 5
 vless://899677ed-5842-47e3-9aa1-d7a7562bc4c8@assets.sinafc.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/97a788eb18a4f41&type=tcp&sni=github.com&sid=b5d663e4e2e19d#Telegram Proxy_mtm 2
 vless://899677ed-5842-47e3-9aa1-d7a7562bc4c8@shop.jarorobo.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/97a788eb18a4f41&type=tcp&sni=github.com&sid=b5d663e4e2e19d#Telegram Proxy_mtm 7
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=523AfB17.IRS23.pagES.DEv&fp=chrome&type=ws&sni=523afb17.IRS23.pAgES.Dev#@Hope_Net-join-us-on-Telegram
@@ -501,5 +503,3 @@ vless://XpnTeam-7@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryptio
 vless://XpnTeam-7@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
-vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#VPN @MimiTdl 🔥⚡
-vless://a02e0f63-d96e-4b0f-8270-56c28caef171@51.158.151.24:31727?security=none&encryption=none&headerType=none&type=tcp#کانال تلگرام : Free_VPN_CH@

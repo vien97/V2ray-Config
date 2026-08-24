@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=reality&fp=chrome&sni=www.yahoo.com&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&sid=4e&spx=/DFm1fdkZikXIQ1r#green
+vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality&encryption=none&pbk=VwWuZIAZf4msfvsDZQjQHY6hZPK5r0O-s7yStyjOqhk&headerType=none&fp=chrome&spx=/U575ktM2xSCSQeZ&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=fc87828b94144d#TEL;Father_vpn
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va28.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#channel : @freedomofinfor
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
@@ -501,5 +503,3 @@ vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality
 vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality&encryption=none&pbk=f7ysLjHXSTFqwfeUvS26zrbLmjwpvsa0xtfMYz46OjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#@v2ray_phoenix
 vless://f6da8274-44be-4599-a8d8-66929c980677@13.143.141.28:2054/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=www.ibm.com&fp=chrome&security=reality&pbk=LxfBal4zumw8Un0P9G-F8auThUm_6jzJviu5jsZ2qGw&sid=2d8775cc&packetEncoding=xudp#荷兰-01
 vless://f6facd31-c0f7-444f-8b7d-be754eaea9cc@43.224.150.210:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cQ4VTKqrqqCRqcfMx9F4rOV56w7KmOXAyv_FlEZy7C4&sid=5f8bf82edbd1569b&spx=/HesarWeb#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
-vless://f6facd31-c0f7-444f-8b7d-be754eaea9cc@43.224.150.210:443?security=reality&encryption=none&pbk=cQ4VTKqrqqCRqcfMx9F4rOV56w7KmOXAyv_FlEZy7C4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5f8bf82edbd1569b#𝗝𝗼𝗶𝗻➠@TEHRANARGO
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@hopev2ray💛
