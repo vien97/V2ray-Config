@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.247.155:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#@v2ray313 کانالمون 🦋
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
@@ -502,4 +503,3 @@ vless://62a2e958-56ae-4f30-b98a-3b084622f9bc@176.65.151.52:44406?security=&encry
 vless://62a2e958-56ae-4f30-b98a-3b084622f9bc@176.65.151.52:44406?security=&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
 vless://62a2e958-56ae-4f30-b98a-3b084622f9bc@176.65.151.52:44406?security=&encryption=none&headerType=none&type=tcp#🇳🇱150744 | ⚡️Telegram = t.me/SOSkeyNET
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@v2rayng3
-vless://634394fa-957c-4e1b-ba31-ec2bc417c356@138.124.90.40:35872?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=PnvtzlkQxMBo2VR7EB4BxqE3EgL6c_92Z8MYijqN2hI&sid=ee740b4fd675&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇦🇹139726 | ⚡️Telegram = t.me/SOSkeyNET
