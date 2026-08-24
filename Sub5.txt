@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#kurdconfig
 vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#🇩🇪All¹⁰ | @BigSmoke_Config
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#🇩🇪All¹⁵ | @BigSmoke_Config
@@ -502,4 +503,3 @@ vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=
 vless://52f86c87-afd4-48e4-8371-7874590b999b@104.16.250.153:443?path=/?u=user1&security=tls&encryption=none&insecure=0&host=ez-b9a267.ezaccess141636a.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-b9a267.ezaccess141636a.workers.dev#@configprxy
 vless://52f86c87-afd4-48e4-8371-7874590b999b@104.16.250.153:443?path=/?u=user1&security=tls&encryption=none&insecure=0&host=ez-b9a267.ezaccess141636a.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-b9a267.ezaccess141636a.workers.dev#@meliproxyy
 vless://5383fb97-1178-4709-9a25-b767b743e911@185.247.16.49:2200?&type=ws&headerType=none&host=rzd.ru&path=/v1#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@151.242.160.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl94.mechvpn.online&allowInsecure=1&fp=chrome#荷兰
