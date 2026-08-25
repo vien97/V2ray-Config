@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&security=none&type=tcp&headerType=http&host=bale.ai#vpnsal
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&security=none&type=tcp&headerType=http&host=bale.ai#🇩🇪All¹⁴ | @BigSmoke_Config
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&security=none&type=tcp&headerType=http&host=bale.ai#🇩🇪All⁴ | @BigSmoke_Config
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&security=none&type=tcp&headerType=http&host=bale.ai#🇩🇪All⁹ | @BigSmoke_Config
@@ -503,3 +502,4 @@ vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269/?type=ws&path=/@
 vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269/?type=ws&path=/@VPNlime&security=none#Channel: @VPNLime  ری اکشن بالا باشه انرژی بگیریم ❤️❤️ 🍋@vpnlime
 vless://19f1655a-beb4-452c-92c8-92c8598714f4@31.47.45.218:18215?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&path=/&security=none&type=ws#🏓99@oneclickvpnkeys

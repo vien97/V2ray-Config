@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@irdusti⁶⏳
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=/http&security=none&encryption=none&type=ws#@Alpha_V2rayip
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
@@ -503,3 +502,4 @@ vless://f3e8d964-0671-4cd3-a660-29dc72aa3214@91.196.32.151:64175?mode=auto&path=
 vless://f3e8d964-0671-4cd3-a660-29dc72aa3214@91.196.32.151:64175?mode=auto&path=/?Telegram--@CONFIG7X---@CONFIG7X&security=reality&encryption=none&pbk=LjdEIR5zU-VTzfvO3jtRXfaPx5RZDrUEbiNH4tJ9OgA&host=forum.linuxconfig.org&fp=chrome&type=xhttp&sni=forum.linuxconfig.org&sid=4da193f2#𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢:@𝗖𝗢𝗡𝗙𝗜𝗚𝟳𝗫 | US
 vless://f3ed1945-dc1e-478a-b067-12b71badbea9@163.128.99.73:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&allowInsecure=1&fp=chrome&security=reality&pbk=ZMYQqRPgpITMElFSEMesSocBj7jvhhw3JGGzWEfyrBk&sid=693f679d3294f967&packetEncoding=xudp#🇸🇬SG
 vless://f40ef9e3-ce9d-438f-a421-2b3f3361c86a@hollowcon6.onrender.com:443?encryption=none&security=tls&sni=hollowcon6.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon6.onrender.com&path=/ws/f40ef9e3-ce9d-438f-a421-2b3f3361c86a#@hollowcon
+vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#kurdconfig

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch: @pPal03🔴⚪️🔵جوین بدید عزیزان🔴⚪️🔵
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=tcp#🍑38@oneclickvpnkeys
 vless://953645a7-4c0b-5527-c97f-496896315a97@dlmusic.pcsfolder.ir:28144?security=reality&type=tcp&headerType=none&encryption=none&path=&sni=updates.cdn-apple.com&fp=chrome&pbk=HxWYDSCXGt4-TdghM0qAB06Hb8HX00pbQteAihrpbXg&sid=29736e9c&spx=/#@filembad
 vless://953645a7-4c0b-5527-c97f-496896315a97@dlmusic.pcsfolder.ir:28144?security=reality&type=tcp&headerType=none&encryption=none&path=&sni=updates.cdn-apple.com&fp=chrome&pbk=HxWYDSCXGt4-TdghM0qAB06Hb8HX00pbQteAihrpbXg&sid=29736e9c&spx=/#کانال ما
@@ -503,3 +502,4 @@ vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa4.api3-max.ru:443?security=tls&
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa4.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lapa4.api3-max.ru#☃ | @VEGAAS_VPN | 492
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa5.api3-max.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=lapa5.api3-max.ru&alpn=h2,http/1.1&fp=chrome#法国
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok1.api3-max.ru#@IRAN_V2RAY1
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok1.api3-max.ru#@Nexus_Panell چنل تلگرام
