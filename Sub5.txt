@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://334386d6-0bc3-4962-8aaa-383d803f98fe@5.101.78.12:2040?security=&encryption=none&headerType=none&type=tcp#🇷🇺RU-🚀@VPNine1
 vless://334386d6-0bc3-4962-8aaa-383d803f98fe@5.101.78.12:2040?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://334386d6-0bc3-4962-8aaa-383d803f98fe@5.101.78.12:2040?security=none&encryption=none&headerType=none&type=tcp#[28304] - Telegram : @V2All
 vless://334386d6-0bc3-4962-8aaa-383d803f98fe@5.101.78.12:2064?security=&encryption=none&headerType=none&type=tcp#@filembad
@@ -503,3 +502,4 @@ vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?&security=tls&fp=
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?encryption=none&security=tls&sni=gb1.wba-pn.ru&fp=chrome&type=ws&host=gb1.wba-pn.ru&path=/#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=gb1.wba-pn.ru#@appsooner کانال تلگرام 🕊️
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@Iran_v2ray1
+vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@icv2ray

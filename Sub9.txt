@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@magazin5.mervi.icu:443?security=reality&encryption=none&pbk=spZ5EzB2A-lFTqmV_9JeUz_FitUv_JhNWiJ8S6w_zQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=magazin5.mervi.icu&sid=07818960cc7c3581#🇪🇪151984 | ⚡️Telegram = t.me/SOSkeyNET
 vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@magazin5.mervi.icu:443?security=reality&encryption=none&pbk=spZ5EzB2A-lFTqmV_9JeUz_FitUv_JhNWiJ8S6w_zQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=magazin5.mervi.icu&sid=07818960cc7c3581#🇪🇪EE-🚀@VPNine1
 vless://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@156.248.10.58:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nono.hhhkkhktt.xyz&fp=chrome&security=reality&pbk=EXIEsAJq-s30mA0r997iwrR8ijvGLZ7DOTkr_R39QCE&sid=54fc3827c8#香港
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
@@ -503,3 +502,4 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&sec
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#@hopev2ray❤️
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@185.193.30.94:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#@v2ray313 کانالمون 💖
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.3:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇨🇦151997 | ⚡️Telegram = t.me/SOSkeyNET
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#@hex_proxy ⁷
