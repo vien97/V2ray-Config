@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#channel : @freedomofinfor
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@w.smarteracloud.com:2096?encryption=none&security=tls&sni=otthnu73.indosoxr.info&type=xhttp&host=otthnu73.indosoxr.info&path=/&mode=stream-one#کانال تلگرام : Free_VPN_CH@
 vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@xhttpru.enotvpn.net:443?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&type=xhttp&path=/&mode=auto#@Daily_Configs
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=/?ed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#channel : @freedomofinfor
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
@@ -501,5 +503,3 @@ vless://486fe30a-18d8-4913-b0ba-a301d9b7d505@176.120.17.94:16427?type=tcp&encryp
 vless://48cb335c-2210-4f81-bde9-e9c8d454ed7b@pl154.slovovpn.com:26417?security=reality&encryption=none&pbk=UIW5K60pwiph20ht5dLF22CmD68KphGRiYTBK0wBXXw&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=deff65#@leviconfigs🪐-20
 vless://48d28481-1d0f-4e3f-afd2-a0361ca50efa@nimbaha.yousefbn.com.turkcloud.ir:2022?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://48d454d9-a323-4395-b768-99442a9ca343@5.75.193.127:80?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&type=tcp&security=none&headerType=http&host=amp-api-edge.apps.apple.com#@Cfox_SerVer 🇩🇪
-vless://48d454d9-a323-4395-b768-99442a9ca343@5.75.193.127:80?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#کانال ما
-vless://48d454d9-a323-4395-b768-99442a9ca343@5.75.193.127:80?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪152954 | ⚡️Telegram = t.me/SOSkeyNET

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://48d454d9-a323-4395-b768-99442a9ca343@5.75.193.127:80?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#کانال ما
+vless://48d454d9-a323-4395-b768-99442a9ca343@5.75.193.127:80?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪152954 | ⚡️Telegram = t.me/SOSkeyNET
 vless://48d454d9-a323-4395-b768-99442a9ca343@5.75.193.127:80?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆: @v2ryNG01
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@GozargahAzad|🇺🇸
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@v2ray313 کانالمون 😯
@@ -501,5 +503,3 @@ vless://6329dff8-ae1a-414e-b996-1ec477aacff8@144.124.238.23:443?encryption=none&
 vless://6329dff8-ae1a-414e-b996-1ec477aacff8@144.124.238.23:443?security=reality&encryption=none&pbk=hiYMSgK38yc1VX8BHlXLutTQVXRg680notMzZ84nAjI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rezerv8.yunus.guru&sid=8ab7a5e3a54b4dc3#@V2ray_Alpha👢 7
 vless://6329dff8-ae1a-414e-b996-1ec477aacff8@144.124.238.23:443?security=reality&encryption=none&pbk=hiYMSgK38yc1VX8BHlXLutTQVXRg680notMzZ84nAjI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rezerv8.yunus.guru&sid=8ab7a5e3a54b4dc3#@filembad
 vless://6329dff8-ae1a-414e-b996-1ec477aacff8@144.124.238.23:443?security=reality&encryption=none&pbk=hiYMSgK38yc1VX8BHlXLutTQVXRg680notMzZ84nAjI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rezerv8.yunus.guru&sid=8ab7a5e3a54b4dc3#@freenettir
-vless://6329dff8-ae1a-414e-b996-1ec477aacff8@144.124.238.23:443?security=reality&encryption=none&pbk=hiYMSgK38yc1VX8BHlXLutTQVXRg680notMzZ84nAjI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rezerv8.yunus.guru&sid=8ab7a5e3a54b4dc3#@meliproxyy
-vless://6329dff8-ae1a-414e-b996-1ec477aacff8@rezerv8.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hiYMSgK38yc1VX8BHlXLutTQVXRg680notMzZ84nAjI&security=reality&sid=8ab7a5e3a54b4dc3&sni=rezerv8.yunus.guru&type=tcp#🥎43@oneclickvpnkeys

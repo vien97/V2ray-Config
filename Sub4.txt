@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@tootffarangi🍓-12
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#Channel : @Daily_Configs
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#MTMVPN
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@FarazV2ray
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@V2raySaman
@@ -501,5 +503,3 @@ vless://3302c871-79e8-45a3-8233-d0547ae963ed@freesocks.work:2053?encryption=none
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@undef.network:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/@BlueKnight_net--@BlueKnight_net#@filembad
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@undef.network:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/@BlueKnight_net--@BlueKnight_net#🇨🇦152807 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@undef.network:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/@VPNine1--@VPNine1#🚀@VPNine1
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#channel : @freedomofinfor
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@w.smarteracloud.com:2096?encryption=none&security=tls&sni=otthnu73.indosoxr.info&type=xhttp&host=otthnu73.indosoxr.info&path=/&mode=stream-one#کانال تلگرام : Free_VPN_CH@
