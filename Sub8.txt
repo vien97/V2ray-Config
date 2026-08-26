@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-11
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-9
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@v2ray313 کانالمون 💜
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@V2rayng_Fast
@@ -502,4 +503,3 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@194.87.0.196:443?allowInsecure=1&en
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@194.87.0.196:443?allowInsecure=1&encryption=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c491730|+风车郁金+|+nl+|+194.87.0.196:443&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws#🥎24@oneclickvpnkeys
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@194.87.0.196:443?path=/pg/10086-dfc816f117c491730| 风车郁金 | nl | 194.87.0.196:443&security=tls&encryption=none&insecure=1&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&allowInsecure=1&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr#اگه میخوای قطع نشی جوین شو : @MIGAVPNPRO
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@199.68.196.119:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@206.53.48.65:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#🇧🇬 Join+Telegram:@Farah_VPN 🇧🇬
