@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://XpnTeam-42@199.232.78.160:443?encryption=none&type=ws&host=Appxdn.global.ssl.fastly.net&path=/&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=http/1.1# @MIGAVPNPRO
-vless://XpnTeam-42@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
-vless://XpnTeam-44@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-44@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-45@188.114.97.2:443?mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=edge-dgskj2v37hkd82n-sslhost.aliyOstd.sitE.&type=xhttp&allowInsecure=0&sni=e9abdf3df549b59f-gr2.aliyoStd.sitE.#@bored_vpn
 vless://XpnTeam-45@188.114.97.2:443?mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=edge-dgskj2v37hkd82n-sslhost.aliyOstd.sitE.&type=xhttp&allowInsecure=0&sni=e9abdf3df549b59f-gr2.aliyoStd.sitE.#@mehrosaboran
@@ -503,3 +500,6 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.100:443?mode=auto&path=
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.100:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@irdusti⁵🍷
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.100:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@meliproxyy
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.10:443?encryption=none&security=reality&sni=panel.freesavesafe.com&fp=chrome&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&allowinsecure=0&type=xhttp&mode=auto&host=panel.freesavesafe.com&path=/#🇩🇪All¹⁰ | @BigSmoke_Config
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.10:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb# telegram @mtmvpn 20
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.10:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@Alpha_V2rayip
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.10:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@meliproxyy

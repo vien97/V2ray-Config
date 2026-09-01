@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://889c5863-2a56-2b08-9370-60d367270271@69.46.46.112:443?path=/ws/889c5863-2a56-2b08-9370-60d367270271&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-613d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-613d.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://88d7a648-fd4c-44ea-8d57-be2d83d34066@169.40.32.176:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@outline_ir
-vless://88d7a648-fd4c-44ea-8d57-be2d83d34066@169.40.32.176:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@v2ray313 کانالمون 💟
 vless://88f132b4-6ebd-4b36-a3b2-614b9da534fc@nth.athforce.ir:10801?security=&encryption=none&host=my.nth.athforce.ir&headerType=http&type=tcp#@meliproxyy
 vless://88f132b4-6ebd-4b36-a3b2-614b9da534fc@nth.athforce.ir:10801?security=none&encryption=none&host=my.nth.athforce.ir&headerType=http&type=tcp#@V2ray_Alpha🧠 5
 vless://88f132b4-6ebd-4b36-a3b2-614b9da534fc@nth.athforce.ir:10801?security=none&encryption=none&host=my.nth.athforce.ir&headerType=http&type=tcp#@meliproxyy
@@ -503,3 +500,6 @@ vless://XpnTeam-40@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastl
 vless://XpnTeam-40@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
 vless://XpnTeam-40@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-41@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=edge-dgskj2v37hkd82n-sslhost.aliyOstd.sitE.&type=xhttp&allowInsecure=0&sni=e9abdf3df549b59f-gr2.aliyoStd.sitE.#@mehrosaboran
+vless://XpnTeam-42@199.232.78.160:443?encryption=none&type=ws&host=Appxdn.global.ssl.fastly.net&path=/&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=http/1.1# @MIGAVPNPRO
+vless://XpnTeam-42@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
+vless://XpnTeam-44@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn

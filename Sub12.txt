@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
-vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
-vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=root.configforvpn.fun&fp=chrome&type=ws&sni=root.configforvpn.fun#@ConfigforVPN
 vless://ca9df148-e636-47fe-9af6-fe8fe3eec197@129.151.239.170:8444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=Pgzq-J8UfuBeYi0XSVTn3uYYmi9Rm2dpegks9Ko8M0Y&sid=&packetEncoding=xudp#法国
 vless://ca9df148-e636-47fe-9af6-fe8fe3eec197@139.177.103.135:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&sid=&packetEncoding=xudp#墨西哥
 vless://caacbab-bcaa-cbaa-bdac-caaabbccbbca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -503,3 +500,6 @@ vless://dbdf1950-b40e-4533-88bb-05ebca375781@104.18.155.141:8443?path=/&security
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@172.66.146.2:2087?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#@appsooner کانال تلگرام 🕊️
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#@appsooner کانال تلگرام 🕊️
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@appsooner کانال تلگرام 🕊️
+vless://dc7be1e6-ba1c-4ed3-b9e9-b60c895ea83d@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇦🇺157783 | ⚡️Telegram = t.me/SOSkeyNET

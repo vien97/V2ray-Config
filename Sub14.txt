@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?type=grpc&serviceName=chat.deepseek.com&encryption=none&security=none&mode=gun#[34208] - Telegram : @V2All
-vless://f281ecb9-1bfd-426d-afdf-14985d45d71a@tutaim.k44lawm.ir:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@v2ray_phoenix
-vless://f2ca6ce3-ba4e-4c33-a913-e3560f28e90e@sv3.helpower.ir:2036?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&security=none# @MIGAVPNPRO
 vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none&security=none&type=ws&host=blue-fog-bc9c.seyed-arash.workers.dev&path=/eyJqdW5rIjoiZVE5MVBWYlpVZ2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4OS41OC40MC4xNzciXX0=#t.me/ConfigFori  -  Config 88287
 vless://f2e9cf8a-7444-4197-d081-e4c3dfef9f60@prisonvpnc-production-2f95.up.railway.app:443?encryption=none&security=tls&type=ws&host=prisonvpnc-production-2f95.up.railway.app&path=/ws/f2e9cf8a-7444-4197-d081-e4c3dfef9f60&sni=prisonvpnc-production-2f95.up.railway.app&fp=chrome&alpn=http/1.1#RVG-@PRISONVPNc
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@47.243.86.79:8080?type=ws&host=mkhy.daozhang.link&path=/?ed=2048#@Hope_Net-join-us-on-Telegram
@@ -503,3 +500,6 @@ vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?encryption=none
 vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=user-6a917f32.noooo.win&fp=firefox&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=user-6a8d949a.noooo.win&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://432289de-8dec-46ef-9a3f-001a3af178a7@45.76.87.125:14750?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://3f054fce-df15-4f7c-8616-56a8b17e84b4@72.56.40.152:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=usa.korgivps.ru#%3E%3E%40configV2rayNG%3A%3AUS
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2086?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
