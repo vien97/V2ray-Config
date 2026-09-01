@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@95.85.232.112:443?security=reality&encryption=none&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=duchland1.vodniki.monster&sid=0c13e8822e7f58aa#@v2raybaaz
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alban.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alban.freeinternat.com&sid=ff776ff77be48b88#@Argo_VPN1
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alban.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alban.freeinternat.com&sid=ff776ff77be48b88#@hex_proxy ⁷
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@duchland1.vodniki.monster:443?security=reality&encryption=none&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=duchland1.vodniki.monster&sid=0c13e8822e7f58aa#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@fin4.freeinternat.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin4.freeinternat.com&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#channel_@networld_vpn
@@ -501,5 +503,3 @@ vless://f06c6039-a489-3d78-a676-ed43be6deca3@188.253.123.164:38507/?type=tcp&enc
 vless://f07b0239-d5a4-42c4-b5a8-fc64902ebe5c@185.218.139.222:8080?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=KKuA4eyhlE6PtHejltulCvKvC5TYgm8PfA38PqRhe3A&fp=chrome&spx=/cefc3baab87c115&type=xhttp&sni=www.intel.com&sid=799f7f490be9# telegram @mtmvpn 30
 vless://f09ca7ff-bfc2-4f72-8cf4-a3c81100cc15@parr.mechanicir.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁹ | @BigSmoke_Config
 vless://f0cbbd20-26c5-4b23-be62-1a9729c8428e@panelarshiavpnshop.arshialezat.ir:44702?encryption=none&security=none&type=tcp#🔒36@oneclickvpnkeys
-vless://f0d24eb0-a88a-455f-92b8-3a99c38dfb0c@hys42.wba-pn.ru:443?&security=tls&fp=chrome&type=ws&headerType=none&host=hys42.wba-pn.ru&path=/#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
-vless://f0d24eb0-a88a-455f-92b8-3a99c38dfb0c@hys42.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hys42.wba-pn.ru#@hex_proxy ⁴

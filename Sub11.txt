@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b5650923-6550-41e2-b492-d57c249ec739@78.135.77.30:43070?security=none&encryption=mlkem768x25519plus.native.0rtt.24dVej4qDgH0d33zR1JYuczcMoDaTF2YWsY5lmWCOmk&headerType=none&type=tcp#🎈 ConfigV2RayNG
+vless://b56fe166-72e8-e722-8410-905d687ba028@69.46.46.123:443?path=/ws/b56fe166-72e8-e722-8410-905d687ba028&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-4c9f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-4c9f.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?mode=auto&path=/?@leviconfigs_leviconfigs?ed=2048&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#@leviconfigs🪐-2
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dep.opngtr.nl&fp=chrome&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&sid=7d6b6b7a606c21cf&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?security=reality&encryption=none&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dep.opngtr.nl&sid=7d6b6b7a606c21cf#@Selinc
@@ -501,5 +503,3 @@ vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryp
 vless://c8510c22-2e66-ebd8-7052-a2984fecc072@inetchnl-production-b303.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-b303.up.railway.app&path=/ws/c8510c22-2e66-ebd8-7052-a2984fecc072&sni=inetchnl-production-b303.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇺🇸@iNetChnl
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
 vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?encryption=none&security=tls&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rezeroooo3-hollowcon2.hf.space&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8#@hollowcon
-vless://c8c06f90-c267-47a6-a91a-967e58e61db0@204.44.127.222:37262?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁸⁷
-vless://c9076ecc-16a5-4c25-ae51-3b0be9baa423@holandpanel.parsclad.ir:8443?encryption=none&fp=chrome&pbk=dn9GspGaFe3kBNVSCb5ldk3Tf3WIWBhRoRjqAnTB3Aw&security=reality&sid=99c4d92e2db1&sni=www.nvidia.com&spx=/cdff92dacfdeadb&type=tcp#promo_1787570992515_2_0yc9Reality1
