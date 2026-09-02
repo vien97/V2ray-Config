@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#TEL;Father_vpn
+vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=none&encryption=none&headerType=none&type=tcp#@Net2ray 2
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?encryption=none&fp=chrome&host=wsnl4.wba-pn.ru&path=/&security=tls&type=ws#[35221] - Telegram : @V2All
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?encryption=none&fp=chrome&host=wsnl4.wba-pn.ru&path=/&security=tls&type=ws#👝51@oneclickvpnkeys
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?encryption=none&fp=chrome&security=tls&sni=wsnl4.wba-pn.ru&type=ws#👝32@oneclickvpnkeys
@@ -501,5 +503,3 @@ vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/r
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@vmess_ir
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#Bisto4_Service
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@95.143.188.10:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=git.medrocket.ru&sid=3b5b38669a1a51c0#@Selinc
-vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@95.143.188.10:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=git.medrocket.ru&sid=3b5b38669a1a51c0#@bored_vpn
-vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@95.143.188.10:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=git.medrocket.ru&sid=3b5b38669a1a51c0#@mehrosaboran
