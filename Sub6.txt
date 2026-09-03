@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#@FarazV2ray
 vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#@V2raySaman
 vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#@tootffarangi🍓-8
 vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#Channel id: @ConfigV2RayNG 🇬🇧
@@ -502,4 +503,3 @@ vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@93.189.63.146:443?mode=auto&path=/s
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@93.189.63.146:443?mode=auto&path=/static&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=mm.melbicom.net&sid=3b5b38669a1a51c0#@mehrosaboran
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@93.189.63.146:443?mode=auto&path=/static&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=mm.melbicom.net&sid=3b5b38669a1a51c0#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@93.189.63.146:443?mode=auto&path=/static&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=mm.melbicom.net&sid=3b5b38669a1a51c0#@𝐕𝟐𝐗𝐍𝐄𝐓
-vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@93.189.63.146:443?mode=auto&path=/static&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=mm.melbicom.net&sid=3b5b38669a1a51c0#Bisto4_Service
