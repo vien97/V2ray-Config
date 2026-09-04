@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&encryption=none&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&host=/?TELEGRAM@V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=1e977d0b52eab755#@V2ray_confiig
+vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&encryption=none&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&host=/?TELEGRAM@i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=1e977d0b52eab755#@i10VPN🎉
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:443?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:8080?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:443?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:8080?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
@@ -498,8 +503,3 @@ vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=no
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=c12.com&path=/#🇩🇪All⁶ | @BigSmoke_Config
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=c12.com&path=/#🇫🇮 FI
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#@Daily_Configs
-vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?encryption=none&type=ws&host=c12.com&path=/&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=h2#🇫🇮 @V2RAYNG_IP ✅
-vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2raySaman
-vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🌎 1
-vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 💥😘
-vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
