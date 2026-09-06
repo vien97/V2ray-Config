@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#@bored_vpn
 vless://d546a5f5-47f1-4243-abc3-baceb58f207f@82.40.62.39:39616?type=tcp&encryption=none&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#⚡️ KURDNET | کرد نت
 vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@confiig_hub
 vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#Bisto4_Service
@@ -502,4 +503,3 @@ vless://e7421a63-39a0-48f4-b6fb-a88787ee56a5@turkeydndh.parsaagh.bond:60272?secu
 vless://e7421a63-39a0-48f4-b6fb-a88787ee56a5@turkeydndh.parsaagh.bond:60272?security=&encryption=mlkem768x25519plus.native.0rtt.1b1BDfYmMYRxuRxl-w1jB1rcMUjiVuz9rrOEOCRwrRg&headerType=none&type=tcp#🇹🇷TR-🚀@VPNine1
 vless://e75fbac1-efaa-45a2-ac76-ac150cb37329@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=c12.com&path=/#✅  @vistav2ray  👈👈کانال ما ✅
 vless://e76dc9ca-b09f-07d0-bd4f-316ee0dce041@94.26.249.216:52006?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=clode.fastaichat.ru#@confiig_hub
-vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=/?TELEGRAM@MARAMBASHI_MARAMBASHI&security=reality&fp=chrome&sni=www.intel.com&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&sid=a739eb7afcffa605#@V2RAYNG_IP 🌩️🫟
