@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬 | 14
 vless://c42d021a-7a32-451e-b8b1-c6fbee9298d7@sparkconfigg.parsclad.ir:47060?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=7siCBRzHrVPRdPuBtfJw0syh54wtPw5QP3OajkWXbzw&security=reality&sid=ff8af8b3&sni=br.financas.yahoo.com&spx=/8f3fac9e7200e7b&type=xhttp&x_padding_bytes=100-1000#ihcu4l8567-🇹🇷_sparkconfig4
 vless://c42d021a-7a32-451e-b8b1-c6fbee9298d7@sparkconfiggg.parsclad.ir:15852?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=ef7I-KD6fnS3n6PsPSUIuceRLj1DLTTz1MhZ3GWOu18&security=reality&sid=27fd&sni=www.amazonaws-china.com&spx=/0cc0f7c59b4732c&type=xhttp&x_padding_bytes=100-1000#ihcu4l8567-🇳🇱_sparkconfig4
 vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443/?type=tcp&encryption=none&flow=#@Vpn_Mafia
@@ -502,4 +503,3 @@ vless://d8760638-587c-e47a-20fa-56c956a5f55b@69.46.46.123:443?path=/ws/d8760638-
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@KAFING_2
 vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#@KAFING_2
 vless://d8b3f1c4-94c7-423e-a03a-bfa7f6af0ea1@151.101.56.9:80?encryption=none&type=ws&host=freekabotar.global.ssl.fastly.net&path=/ws&security=none#@ehsawn8
-vless://d8c6ed88-bff0-4494-a060-f618786e0e4a@49.12.45.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&sid=95&spx=/NpWro7SlTrmG8JR&type=tcp&headerType=none#@Daily_Configs
