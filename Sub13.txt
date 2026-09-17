@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.25.88.21:14239?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/pages&security=tls&sni=cdn8848.776676.xyz&type=ws#⚙️91@oneclickvpnkeys
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.202.247.152:443?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/jump.html/star?ed=2560fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.77.241.190:8441?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=/act/company/intro&security=tls&sni=cdn8848.776676.xyz&type=ws#💈73@oneclickvpnkeys
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪173577 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪EE-🚀@VPNine1
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#[48233] - Telegram : @V2All
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪173428 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
@@ -503,3 +496,10 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22224?security=none&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.30.143:22222?encryption=none&security=none&type=tcp#V2ray_confiig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.60.245:22224?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 😁
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.40.234.23:22222?encryption=none&security=none&type=tcp#V2ray_confiig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.173.87:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.233.121:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.233.121:22223?encryption=none&security=none&type=tcp&headerType=none#Telegram: @Daily_Configs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.99.148:22222?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.176.25:22222?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.176.25:22223?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
