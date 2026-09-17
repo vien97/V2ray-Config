@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?BIA_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-29
-vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?JOIN_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-3
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?JOIN_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-5
 vless://be3a80da-9bda-44b7-97ea-8794b88633d8@mashinbazi.athforce.ir:2376?encryption=none&security=none&type=tcp&headerType=http&host=my.mashinbazi.athforce.ir#🇷🇺 𝗥𝗨 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 🟩⬜⬜⬜⬜
 vless://be5851ff-9af5-45ea-b874-a0a035714114@104.27.66.214:8443?path=/admin.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#@tanhanet
@@ -503,3 +501,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?path=twitterfree
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪173577 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪EE-🚀@VPNine1
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#[48233] - Telegram : @V2All
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪173428 | ⚡️Telegram = t.me/SOSkeyNET

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#[48233] - Telegram : @V2All
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪173428 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪173462 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@61.220.41.143:36633?path=/&security=tls&encryption=none&type=ws&sni=80.qing1.link#@Hope_Net-join-us-on-Telegram
@@ -503,3 +501,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.99.148:22222?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.176.25:22222?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.176.25:22223?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?security=&encryption=none&headerType=&type=tcp#filembad-347
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz

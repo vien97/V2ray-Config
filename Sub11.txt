@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.180.51:2096?path=/blue&security=tls&encryption=none&type=ws&sni=zdyd.kpcloud.eu.org#🇸🇬173579 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.57.245.232:443?path=/&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.57.245.232:443?path=/&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#🇭🇰173524 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.103:443?path=/blue&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.103:443?path=/blue&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#🇺🇸173613 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=realit
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-1
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-13
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?BIA_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-29
+vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?JOIN_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-3
