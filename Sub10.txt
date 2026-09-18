@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_confiig
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_market_1378_bot
+vless://88da065a-f709-4bbb-bdef-6c0b39371f09@abb.fars-remen.ir:443?security=&encryption=mlkem768x25519plus.native.0rtt.l3mvTzzaVMf4WsI2Esh3pPbQhYkB9CpYdSdBGsVsD0g&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray313 کانالمون 💚
 vless://88f5e38e-5799-4610-8b17-3eb4f4ced616@23.235.33.98:80?encryption=none&security=none&type=xhttp&host=n-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&path=/fast&mode=auto&extra={"xPaddingBytes":"100-1000"}#@Daily_Configs
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=/755276b33b6f&encryption=none&type=ws#🇺🇿 Join+Telegram:@Farah_VPN 🇺🇿
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?encryption=none&security=none&type=ws&path=/755276b33b6f#@Sparrk_VPN
@@ -499,7 +503,3 @@ vless://V2XNET@188.114.97.8:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&e
 vless://V2XNET@188.114.98.0:443?path=/xvpnws/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=or.mirikhan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=or.mirikhan.dpdns.org#134
 vless://V2XNET@188.114.98.0:443?path=/xvpnws/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=or.mirikhan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=or.mirikhan.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://XpnTeam-10@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
-vless://XpnTeam-10@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-11@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@EXPRESSVPN_420
-vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
