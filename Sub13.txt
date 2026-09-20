@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d8d23e60-d5aa-4556-b513-875e1e85d924@media-edge.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#🇩🇪176439 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@media-edge.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@music.navard.net:80?security=&encryption=none&headerType=http&type=tcp#@v2ray313 کانالمون 🌝
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@music.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#@V2ray_Alpha🤡 9
@@ -502,4 +503,3 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2ray_Alpha🛑 6
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2ray_Alpha🤪 6
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2ray_confiig
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@configprxy

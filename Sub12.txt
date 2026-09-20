@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c8912ceb-599c-49c9-9976-a1c26a462366@83.217.9.101:2053?path=/pleasework&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tur1.prosetka.site&fp=chrome&type=ws&allowInsecure=0&sni=tur1.prosetka.site#🇹🇷TR-🚀@VPNine1
 vless://c8912ceb-599c-49c9-9976-a1c26a462366@89.169.186.14:443?path=/pleasework&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.vtb-cdn2.ru&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vtb-cdn2.ru#🇷🇺176515 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c8912ceb-599c-49c9-9976-a1c26a462366@89.169.186.14:443?path=/pleasework&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.vtb-cdn2.ru&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vtb-cdn2.ru#🇷🇺RU-🚀@VPNine1
 vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?encryption=none&security=tls&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rezeroooo3-hollowcon2.hf.space&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8#@hollowcon
@@ -502,4 +503,3 @@ vless://d8d23e60-d5aa-4556-b513-875e1e85d924@apps.navard.net:80?security=none&en
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@edge.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#Tel-@ProxyMtAlpha🐰
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@itunes.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#@meliproxyy
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@itunes.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://d8d23e60-d5aa-4556-b513-875e1e85d924@media-edge.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#🇩🇪176439 | ⚡️Telegram = t.me/SOSkeyNET
