@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.17.211.153:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#🇨🇦177638 | ⚡️Telegram = t.me/SOSkeyNET
-vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.131.38:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#🇨🇦177665 | ⚡️Telegram = t.me/SOSkeyNET
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.163.22:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.187.203:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#🇨🇦177664 | ⚡️Telegram = t.me/SOSkeyNET
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.30.56:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
@@ -503,3 +501,5 @@ vless://20cba9d0-e235-4205-943a-7e6f0b390ec5@zolla2580.karmatel.ir:55519?Telegra
 vless://20cba9d0-e235-4205-943a-7e6f0b390ec5@zolla2580.karmatel.ir:55519?path=/&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=ws#🇹🇷 | اهدایی @v2raybaaz
 vless://20cba9d0-e235-4205-943a-7e6f0b390ec5@zolla2580.karmatel.ir:55519?path=/&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=ws#🇹🇷 | اهدایی @v2raybaaz  @v2raybaaz
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
+vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
+vless://20d439ac-16aa-4538-ab92-b683ad1ead5f@104.18.4.130:2082?type=ws&encryption=none&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#🚸 Cephalon_ala-[21]

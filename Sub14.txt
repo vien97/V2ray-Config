@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e6b59d15-364c-4025-899a-84efa291d651@172.67.213.218:2096?path=/eyJqdW5rIjoiYWNoMkxHaUVYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&encryption=none&insecure=0&host=REd-suRf-2007.MatriSkA.wOrkeRs.DeV&fp=chrome&type=ws&allowInsecure=0&sni=REd-suRf-2007.MatriSkA.wOrkeRs.DeV#93
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#configprxy
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#Telegram:@v2rayng3
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#🔵@chillguy_vpn
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&encryption=none&security=reality&sni=download.nvidia.com&type=tcp&headerType=none#@v2rayng3
@@ -503,3 +501,5 @@ vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe
 vless://turboo-server@web.turbooserver.net.tr:8443?security=&encryption=none&host=dynu.com&headerType=http&type=tcp#@v2ray313 کانالمون 😷
 vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#@Capoit
 vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#@V2ray_Alpha🍳 7
+vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#@VEGAAS_VPN🇩🇪
+vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#@vmesc

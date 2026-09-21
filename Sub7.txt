@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4928c901-be72-4f81-8d59-091ce9e01692@84.32.106.178:443?security=reality&encryption=none&pbk=pU7ElcbPMVObHoWqGThioVD4i5ux_phWFwElN97aDSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw.api-yandex.net&sid=0f4dacf89993e21f#@confiig_hub
-vless://493024a4-2da7-4ff9-9bc7-fdd5543141d2@88.216.73.74:33843?mode=gun&security=reality&encryption=none&pbk=TL1CK8WVdpIj9WBX6I79EItHrgUy4Gb9qQ31EKr8sww&fp=chrome&spx=/8fap4ibij0s99c3&type=grpc&serviceName=grpc&sni=blogs.nvidia.co.jp&sid=ddf4cc#@leviconfigs🪐-10
 vless://493024a4-2da7-4ff9-9bc7-fdd5543141d2@88.216.73.74:33843?mode=gun&security=reality&encryption=none&pbk=TL1CK8WVdpIj9WBX6I79EItHrgUy4Gb9qQ31EKr8sww&fp=chrome&spx=/8fap4ibij0s99c3&type=grpc&serviceName=grpc&sni=blogs.nvidia.co.jp&sid=ddf4cc#United States 🇺🇸
 vless://493024a4-2da7-4ff9-9bc7-fdd5543141d2@88.216.73.74:33843?mode=gun&security=reality&encryption=none&pbk=TL1CK8WVdpIj9WBX6I79EItHrgUy4Gb9qQ31EKr8sww&fp=chrome&spx=/8fap4ibij0s99c3&type=grpc&serviceName=grpc&sni=blogs.nvidia.co.jp&sid=ddf4cc#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
 vless://493da04d-dca2-4306-acaf-f3005ea69392@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
@@ -503,3 +501,5 @@ vless://615d9f74-4d51-bad3-f240-2a840000000a@104.18.12.149:443?encryption=none&f
 vless://615d9f74-4d51-bad3-f240-2a840000000a@104.18.12.149:443?encryption=none&fp=chrome&host=main.packetloss-com.workers.dev&path=/silaber&security=tls&sni=main.packetloss-com.workers.dev&type=ws#🚀@VPNine1
 vless://615d9f74-4d51-bad3-f240-2a8400000011@104.19.230.21:443?encryption=none&fp=chrome&host=main.packetloss-com.workers.dev&path=/silaber&security=tls&sni=main.packetloss-com.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://615d9f74-4d51-bad3-f240-2a8400000011@104.19.230.21:443?encryption=none&fp=chrome&host=main.packetloss-com.workers.dev&path=/silaber&security=tls&sni=main.packetloss-com.workers.dev&type=ws#🇨🇦177700 | ⚡️Telegram = t.me/SOSkeyNET
+vless://615d9f74-4d51-bad3-f240-2a8400000011@104.19.230.21:443?encryption=none&fp=chrome&host=main.packetloss-com.workers.dev&path=/silaber&security=tls&sni=main.packetloss-com.workers.dev&type=ws#🚀@VPNine1
+vless://615d9f74-4d51-bad3-f240-2a8400000012@104.19.229.21:443?encryption=none&fp=chrome&host=main.packetloss-com.workers.dev&path=/silaber&security=tls&sni=main.packetloss-com.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.169:443?mode=auto&path=/script&security=reality&encryption=none&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&fp=chrome&type=xhttp&sni=mc.yandex.tr&sid=94c9dbbf07366d96#🇷🇺177751 | ⚡️Telegram = t.me/SOSkeyNET
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.169:443?mode=auto&path=/script/?@MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&fp=chrome&type=xhttp&sni=mc.yandex.tr&sid=94c9dbbf07366d96#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://823b4851-27ba-4655-badf-ee7ff0af1cad@104.18.155.229:2095?path=/?ed=2048&security=none&encryption=none&host=cUriouS-LINeo0S87W61ln.spOrTLAnd.cOmPany.&type=ws#TEL;Father_vpn
 vless://82439e29-6285-455d-81dd-b6ca5d4913ca@176.65.151.237:28916?security=&encryption=none&type=grpc#⚡️ KURDNET | کورد نت
 vless://824faea9-cafe-5fa1-90dd-46d975d22ca8@38.54.29.113:8553?security=reality&encryption=none&pbk=C41m2OJvTIXOIo9KsTstW-4BggXA0BR3p3B7Ve5jkx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a141e13cdb91e888#@vasl_bashim
@@ -503,3 +501,5 @@ vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryptio
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
 vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
+vless://Channel:telegram:TurboConfigs@5.75.207.9:1819?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-12
+vless://Channel:telegram:TurboConfigs@5.75.207.9:1819?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-13

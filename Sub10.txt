@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Channel:telegram:TurboConfigs@5.75.207.9:1819?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-12
-vless://Channel:telegram:TurboConfigs@5.75.207.9:1819?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-13
 vless://Channel:telegram:TurboConfigs@5.75.207.9:8035?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-12
 vless://Channel:telegram:TurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://Channel:telegram:TurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Free x288 @Outline_Vpnx269
@@ -503,3 +501,5 @@ vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?mode=auto&path=/&se
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#MTMVPN 🌞
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#‎🛰️ @VConfing
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#☠️Tel--@V2rayAlpha--1
+vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#✅ t.me/bigAVPN ایران آزاد 👑
+vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#@MARAMBASHI 👿
