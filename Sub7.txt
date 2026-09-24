@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5db63d78-15b0-4b44-aa80-6bf9aaad95f6@83.168.107.37:443?security=reality&encryption=none&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=data-1.1984vpn.ru&sid=4640a2f00a8b7e07#🇵🇱 @V2_MOD_SHOP
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.149.192:443?path=/?ed&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fd42d43c58.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fd42d43c58.workers.dev#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.153.213:443?security=tls&sni=powered-by-surena.configfarsi695fce27aa549.workers.dev&type=ws&host=powered-by-surena.configfarsi695fce27aa549.workers.dev&path=/?ed&fp=chrome#[ 🇨🇦 ] | @Cfox_SerVer
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none#🇯🇵139741 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@198.105.123.26:8443?security=reality&encryption=none&pbk=fiE-KoxoQgOIuvm1EuBTeZp9TFZLq9FYbZPrcWes-GM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slfs3.ardor-cloud.ru&sid=ba86aaa222fa2ee1#@irdusti(13)🇹🇷¹
@@ -501,5 +503,3 @@ vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448/?type=tcp&sec
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.18.24.194:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray❤️‍🩹
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.53.134:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💕
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.85.220:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💚
-vless://7893b302-3882-4c38-9ab6-6313f1575d1a@172.67.213.31:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💯
-vless://78b898d6-fa2c-47af-a342-dcde483301b0@89.169.53.1:443?security=reality&encryption=none&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.uva.nl&sid=940dbf5b#Channel : @Daily_Configs
