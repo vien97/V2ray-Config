@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://960e297f-7280-44b3-ac89-33cc6e30eba6@nbg.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇩🇪 @UpsetVPN
+vless://960e297f-7280-44b3-ac89-33cc6e30eba6@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇧🇬 @UpsetVPN
+vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#Telegram:@v2rayng3
 vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
 vless://96da67bb-7b91-4892-b986-c867abdddd34@t1.infinitysystem.space:8080?security=none&encryption=none&host=www.goo.gl&headerType=http&type=tcp#🇹🇷 @ange1Vpn
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
@@ -500,6 +503,3 @@ vless://a6b29052-e9ba-4714-a43c-4a660f452c44@89.125.156.51:2027?security=reality
 vless://a6b29052-e9ba-4714-a43c-4a660f452c44@89.125.156.51:2027?security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deo.skysafe.online&sid=6ba7b8109dad11d1#@V2rayng_Fast 🇧🇷
 vless://a6b29052-e9ba-4714-a43c-4a660f452c44@89.125.156.51:2027?security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deo.skysafe.online&sid=6ba7b8109dad11d1#[54148] - Telegram : @V2All
 vless://a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22@139.59.191.88:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JeaMU58AmMJ2JqJ-QGotRFua9DYxxveqw7I_XMWCu34&security=reality&sid=2da3ecc3ad9a323b&sni=www.stanford.edu&type=tcp#🇬🇧139842 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:443?security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=universe.whit3.net&sid=4eb17bfdb000bef0#Telegram 🆔@cnetvpn 🇧🇪
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@31.77.152.14:443?security=reality&encryption=none&pbk=jJQ3uy2Se5ObXCsYJnT-2ukvUMRiOBBfOZ38Wnm2Ygs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.murhost.network&sid=a75046af5dcaf1d2#@hopev2ray💚
-vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori
