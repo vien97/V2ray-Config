@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9a6734a-d030-4b6a-a8e7-e7d668e34c19@95.181.162.80:8443?mode=gun&security=reality&encryption=none&pbk=JhcbkKehZk28bnMxyDeAgki8RYaYSkJCaF552vml61s&type=grpc&serviceName=xyz&sni=au2-images.shop.samsung.com&sid=ac082a10#✅  @vistav2ray  👈👈کانال ما ✅
 vless://e9e5faed-bf00-48fe-bf03-067c14f027cc@199.232.78.160:443?mode=auto&path=/@UonVPN--/--@UonVPN---*-*----@UonVPN--*--*---*-@UonVPN-----------@UonVPN=+&security=tls&encryption=mlkem768x25519plus.native.0rtt.WijFgu6wZjd77pTGsqP67kJIPW1ZH5JYmJx9EI_nyRU&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=uonshop.ir&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=ssl.fastly.com#@uonvpn 🇩🇪
 vless://e9e5faed-bf00-48fe-bf03-067c14f027cc@199.232.79.166:443?mode=auto&path=/@UonVPN--@UonVPN-*-@UonVPN--*-@UonVPN--**-@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN-*--@UonVPN&security=tls&encryption=mlkem768x25519plus.native.0rtt.EvqGmJhHfNsRhxENFhkBpY3TDQZfpIeaet93vsXSaUU&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=telegram-uonvpn.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn.fastly.com#@uonvpn 🇩🇪
 vless://e9fb98e3-28bd-4ee4-962f-195c4f6354a0@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=parstoday.com.iribnews.ir.donya-e-eqtesad.com.alef.ir.donya-e-eqtesad.com.iribnews.ir.farsnews.ir&allowInsecure=0&sni=eARlY-maTErIAl37F06AQWD6.SaMsUNGovENS.iR#TEL;Father_vpn
@@ -503,3 +502,4 @@ vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.187.60:22324?encryption=aut
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.118.73:22324?encryption=auto&security=none&type=tcp#🐸51@oneclickvpnkeys
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.118.73:22324?encryption=auto&security=none&type=tcp#🕊️51@oneclickvpnkeys
 vmess://5b58a880-19ce-47d6-9864-3d4dae94514c@kzjqw5fyd3f0.dop66.com:2100?packetEncoding=xudp#• 🇫🇮 | 𝗙𝗶𝗻𝗹𝗮𝗻𝗱 - @HesarWeb
+vmess://93842911-bc7f-47e9-a036-904d205b3d11@191.96.94.50:27501?encryption=auto&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none&type=tcp#🐸3@oneclickvpnkeys
