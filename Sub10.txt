@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://XpnTeam-15@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-15@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-16@199.232.78.160:443?encryption=none&type=ws&security=tls&path=/&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@v2mystery 👈 عضو شو
-vless://XpnTeam-16@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
-vless://XpnTeam-16@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-16@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-17@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-7
-vless://XpnTeam-17@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
-vless://XpnTeam-17@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-17@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-18@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-18@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-19@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
@@ -503,3 +493,13 @@ vless://b6f4cdf1-e223-4c79-a0d5-c18a184947f1@199.232.78.159:443?path=/&security=
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?encryption=none&fp=chrome&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&security=reality&sid=6279cd&sni=android.com&spx=/02f0044e62f61cc&type=tcp#filembad-359
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@FarazV2ray
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@V2rayng_Fast
+vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@meliproxyy
+vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@MARAMBASHI 💜
+vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.193.170:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#@configprxy : چنل کانفیگ
+vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.195.244:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=SSw.1.apple1.ir&headerType=http&type=tcp#@configprxy
+vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.230:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#@configprxy : چنل
+vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.28:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#@configprxy
+vless://b732329b-8c5a-ac60-0bfd-8bb353dd7a22@69.46.46.126:443?path=/ws/b732329b-8c5a-ac60-0bfd-8bb353dd7a22&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-productionopop.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-productionopop.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://b736a242-ebfb-d963-5dfb-69ba9dd88184@faultpass-panel-production-8ae8.up.railway.app:443?encryption=none&security=tls&sni=faultpass-panel-production-8ae8.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/b736a242-ebfb-d963-5dfb-69ba9dd88184&host=faultpass-panel-production-8ae8.up.railway.app#کانال @FaultPass
+vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?mode=auto&path=/fast&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tr-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&type=xhttp#@NETMelliAnti
+vless://b7483fbf-94f6-4d6c-add6-ec3df4fb8015@172.67.216.37:8443?path=/assets&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=swz.yandex-api.store#@outline_ir
